@@ -14,9 +14,14 @@ fn main() -> io::Result<()> {
     let mut engine = WordleEngine::new(word_list);
     let mut guess = String::new();
     while !engine.solved() {
-        println!("Please make a guess:");
+        println!("Please make a guess (leave blank to forfeit):");
         guess.clear();
         io::stdin().read_line(&mut guess)?;
+        if guess == "\n" {
+            println!("You gave up :(");
+            println!("The answer was {}", engine.get_solution());
+            break;
+        }
         match engine.guess(guess.trim()) {
             None => println!("Illegal guess"),
             Some(WordleResponse(arr)) => println!(

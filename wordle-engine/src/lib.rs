@@ -69,6 +69,10 @@ impl WordleEngine {
         self.state == [LetterStatus::Exact; 5]
     }
 
+    pub fn get_solution(&self) -> &str {
+        &self.solution
+    }
+
     /// Returns true iff the word is legal to guess
     fn can_guess(&self, word: &str) -> bool {
         self.word_list.iter().any(|w| w == word)
