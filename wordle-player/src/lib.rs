@@ -43,24 +43,33 @@ impl Information {
 
     /// Returns whether or not this word is allowed by the current knowledge
     pub fn allows(&self, word: &str) -> bool {
-        self.present.iter().enumerate().all(|(i, present)| {
-            let c = char::from(i as u8 + 97);
-            present.map_or(true, |present| present == word.contains(c))
-        }) && self
-            .exact
+        self.exact
             .iter()
             .zip(word.chars())
             .all(|(exact, wc)| exact[wc as usize - 97] != Some(false))
+            && self.present.iter().enumerate().all(|(i, present)| {
+                let c = char::from(i as u8 + 97);
+                present.map_or(true, |present| present == word.contains(c))
+            })
     }
 
     /// Returns the expected bits of entropy gained by this guess
     pub fn evaluate_guess(&self, word_list: &[String], guess: &str) -> f64 {
+        let allowed: Vec<String> = word_list
+            .into_iter()
+            .filter(|word| self.allows(word))
+            .cloned()
+            .collect();
+        self.evaluate_guess_from_allowed(&allowed, guess)
+    }
+
+    /// Like `evaluate_guess`, but the word_list must already be filtered for allowed words
+    fn evaluate_guess_from_allowed(&self, word_list: &[String], guess: &str) -> f64 {
         let mut bins = [0; 243];
         word_list
             .iter()
-            .filter(|word| self.allows(word))
             .for_each(|word| bins[get_bin(guess, word)] += 1);
-        let total = word_list.iter().filter(|word| self.allows(word)).count() as f64;
+        let total = bins.iter().sum::<usize>() as f64;
         let start_entropy = total.log2();
         bins.into_iter()
             .filter(|&count| count != 0)
@@ -73,10 +82,31 @@ impl Information {
     }
 
     pub fn get_ideal_guess<'a>(&self, word_list: &'a [String]) -> &'a str {
+        let allowed_words: Vec<String> = word_list
+            .into_iter()
+            .filter(|word| self.allows(word))
+            .cloned()
+            .collect();
         word_list
             .iter()
-            .map(|word| (word, self.evaluate_guess(word_list, word)))
-            .max_by(|(_, s1), (_, s2)| s1.partial_cmp(s2).expect("Unexpected NaN :("))
+            .map(|word| (word, self.evaluate_guess_from_allowed(&allowed_words, word)))
+            // We pick the word which gives us the most information,
+            // breaking ties first by picking a word in the list, then
+            // by picking the word which is last alphabetically.
+            .max_by(|(w1, s1), (w2, s2)| {
+                s1.partial_cmp(s2)
+                    .expect("Unexpected NaN :(")
+                    .then_with(|| {
+                        use std::cmp::Ordering;
+                        let w1_in = self.allows(w1);
+                        let w2_in = self.allows(w2);
+                        match (w1_in, w2_in) {
+                            (false, true) => Ordering::Less,
+                            (true, false) => Ordering::Greater,
+                            _ => Ordering::Equal,
+                        }
+                    })
+            })
             .expect("Empty word list :(")
             .0
     }

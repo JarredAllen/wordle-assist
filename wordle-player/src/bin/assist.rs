@@ -11,7 +11,7 @@ fn read_word_list(mut file: File) -> io::Result<Vec<String>> {
 }
 
 fn main() -> io::Result<()> {
-    let word_file = File::open("../wordle-engine/popular-dedup.txt")?;
+    let word_file = File::open("../wordle-engine/scrabble-dedup.txt")?;
     let word_list = read_word_list(word_file)?;
     let mut info = Information::new();
     let mut guess = String::new();
