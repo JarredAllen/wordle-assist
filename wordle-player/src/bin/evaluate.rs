@@ -36,13 +36,24 @@ fn main() -> io::Result<()> {
     let word_file = File::open("../wordle-engine/popular-dedup.txt")?;
     let word_list = read_word_list(word_file)?;
     let mut bins: HashMap<usize, Vec<String>> = HashMap::new();
-    for word in word_list.iter() {
+    for (i, word) in word_list.iter().enumerate() {
         let engine = WordleEngine::with_answer(word_list.clone(), word.to_string());
         let num_tries = get_num_tries(engine, &word_list);
+        if !bins.contains_key(&num_tries) {
+            println!("First word to take {} guesses: {}", num_tries, word);
+        }
         bins.entry(num_tries)
             .or_insert(Vec::new())
             .push(word.to_string());
+        if i % 20 == 0 {
+            println!("Done word #{} ({})", i, word);
+        }
     }
+    let counts: HashMap<usize, usize> = bins
+        .iter()
+        .map(|(&count, words)| (count, words.len()))
+        .collect();
     println!("{:?}", bins);
+    println!("{:?}", counts);
     Ok(())
 }
