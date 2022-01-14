@@ -2,14 +2,18 @@ use ::wordle_engine::{LetterResponse, WordleEngine, WordleResponse};
 use std::fs::File;
 use std::io::{self, Read};
 
-fn read_word_list(mut file: File) -> io::Result<Vec<String>> {
+fn read_word_list(mut file: File) -> io::Result<Vec<&'static str>> {
     let mut contents = String::new();
     file.read_to_string(&mut contents)?;
-    Ok(contents.split('\n').map(str::to_string).collect())
+    Ok(contents
+        .split('\n')
+        .map(|s| Box::leak(s.to_string().into_boxed_str()) as &'static str)
+        .filter(|s| *s != "")
+        .collect())
 }
 
 fn main() -> io::Result<()> {
-    let word_file = File::open("scrabble-dedup.txt")?;
+    let word_file = File::open("scrabble.txt")?;
     let word_list = read_word_list(word_file)?;
     let mut engine = WordleEngine::new(word_list);
     let mut guess = String::new();

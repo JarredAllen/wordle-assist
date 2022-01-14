@@ -13,42 +13,49 @@ use wordle_engine::WordleEngine;
 
 use ::wordle_player::Information;
 
-fn read_word_list(mut file: File) -> io::Result<Vec<String>> {
+fn read_word_list(mut file: File) -> io::Result<Vec<&'static str>> {
     let mut contents = String::new();
     file.read_to_string(&mut contents)?;
-    Ok(contents.split('\n').map(str::to_string).collect())
+    Ok(contents
+        .split('\n')
+        .map(|s| Box::leak(s.to_string().into_boxed_str()) as &'static str)
+        .filter(|s| *s != "")
+        .collect())
 }
 
-fn get_num_tries(mut engine: WordleEngine, word_list: &[String]) -> usize {
+fn get_num_tries(mut engine: WordleEngine, word_list: &[&str]) -> usize {
     let mut count = 0;
     let mut info = Information::new();
     let mut guess = "";
+    let mut allowed = Vec::from(word_list);
     loop {
         count += 1;
-        let mut allowed = word_list.iter().filter(|word| info.allows(word));
-        let first = allowed.next();
-        let second = allowed.next();
-        let first = first.unwrap_or_else(|| unreachable!("No words matched"));
-        if second.is_none() {
-            if first == guess {
+        if allowed.is_empty() {
+            unreachable!("No words matched, solution {}", engine.get_solution());
+        } else if allowed.len() == 1 {
+            if allowed[0] == guess {
                 break count - 1;
             } else {
                 break count;
             }
         } else {
-            guess = info.get_ideal_guess(word_list);
+            guess = info.get_ideal_guess_from_allowed(&allowed, word_list);
             info.update(guess, engine.guess(guess).expect("Illegal guess made"));
+            allowed = allowed
+                .into_iter()
+                .filter(|word| info.allows(word))
+                .collect();
         }
     }
 }
 
 fn main() -> io::Result<()> {
-    let word_file = File::open("../wordle-engine/scrabble-dedup.txt")?;
+    let word_file = File::open("../wordle-engine/popular.txt")?;
     let word_list = read_word_list(word_file)?;
     let bins: RwLock<HashMap<usize, Vec<String>>> = RwLock::new(HashMap::new());
     let count = AtomicUsize::new(0);
     word_list.par_iter().for_each(|word| {
-        let engine = WordleEngine::with_answer(word_list.clone(), word.to_string());
+        let engine = WordleEngine::with_answer(word_list.clone(), word);
         let num_tries = get_num_tries(engine, &word_list);
         // Print status info so user knows it's running
         let index = count.fetch_add(1, Ordering::Relaxed) + 1;
