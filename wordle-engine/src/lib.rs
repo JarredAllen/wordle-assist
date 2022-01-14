@@ -37,6 +37,39 @@ impl WordleEngine {
         }
     }
 
+    /// Return the match between the guess and the answer
+    pub fn get_response(solution: &str, guess: &str) -> WordleResponse {
+        if guess == solution {
+            WordleResponse::correct()
+        } else {
+            let mut response = [LetterResponse::Absent; 5];
+            let mut taken = [false; 5];
+            guess
+                .chars()
+                .zip(solution.chars())
+                .enumerate()
+                .for_each(|(i, (wc, sc))| {
+                    if wc == sc {
+                        response[i] = LetterResponse::Correct;
+                        taken[i] = true;
+                    }
+                });
+            for (guess_char, response) in guess.chars().zip(response.iter_mut()) {
+                if *response == LetterResponse::Correct {
+                    continue;
+                }
+                for (solution_char, taken) in solution.chars().zip(taken.iter_mut()) {
+                    if !*taken && guess_char == solution_char {
+                        *taken = true;
+                        *response = LetterResponse::Misplaced;
+                        break;
+                    }
+                }
+            }
+            WordleResponse(response)
+        }
+    }
+
     /// Try to make a given guess. Returns:
     ///  - `None` if the guess is invalid
     ///  - `Some(response)` if the guess is valid
@@ -92,8 +125,17 @@ impl WordleEngine {
 #[derive(Copy, Clone, Debug, Eq, PartialEq)]
 pub struct WordleResponse(pub [LetterResponse; 5]);
 impl WordleResponse {
-    fn correct() -> Self {
+    pub fn correct() -> Self {
         Self([LetterResponse::Correct; 5])
+    }
+
+    pub fn all_responses() -> impl Iterator<Item = Self> {
+        LetterResponse::all_responses()
+            .flat_map(|a| LetterResponse::all_responses().map(move |b| (a, b)))
+            .flat_map(|(a, b)| LetterResponse::all_responses().map(move |c| (a, b, c)))
+            .flat_map(|(a, b, c)| LetterResponse::all_responses().map(move |d| (a, b, c, d)))
+            .flat_map(|(a, b, c, d)| LetterResponse::all_responses().map(move |e| (a, b, c, d, e)))
+            .map(|(a, b, c, d, e)| WordleResponse([a, b, c, d, e]))
     }
 }
 
@@ -102,4 +144,14 @@ pub enum LetterResponse {
     Correct,
     Misplaced,
     Absent,
+}
+impl LetterResponse {
+    fn all_responses() -> impl Iterator<Item = Self> {
+        [
+            LetterResponse::Correct,
+            LetterResponse::Misplaced,
+            LetterResponse::Absent,
+        ]
+        .into_iter()
+    }
 }

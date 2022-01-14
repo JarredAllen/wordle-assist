@@ -8,7 +8,7 @@ fn read_word_list(mut file: File) -> io::Result<Vec<&'static str>> {
     Ok(contents
         .split('\n')
         .map(|s| Box::leak(s.to_string().into_boxed_str()) as &'static str)
-        .filter(|s| *s != "")
+        .filter(|s| !s.is_empty())
         .collect())
 }
 
