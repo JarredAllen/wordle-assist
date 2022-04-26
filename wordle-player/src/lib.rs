@@ -150,19 +150,24 @@ impl Information {
             .0
     }
 
-    pub fn top_n_guesses<'a>(&self, word_list: &[&'a str], count: usize) -> Vec<&'a str> {
+    pub fn top_n_guesses<'a>(
+        &self,
+        guess_list: &[&'a str],
+        word_list: &[&'a str],
+        count: usize,
+    ) -> Vec<(&'a str, f64)> {
         let allowed_words: Vec<&'a str> = word_list
             .iter()
             .filter(|word| self.allows(word))
             .cloned()
             .collect();
-        word_list
+        guess_list
             .iter()
             .map(|word| {
                 (
                     word,
                     self.evaluate_guess_from_allowed(&allowed_words, word),
-                    self.allows(word),
+                    allowed_words.contains(word),
                 )
             })
             // We pick the word which gives us the most information,
@@ -181,8 +186,8 @@ impl Information {
                     })
                     .reverse()
             })
-            .map(|(word, _, _)| *word)
             .take(count)
+            .map(|(word, score, _)| (*word, score))
             .collect()
     }
 }

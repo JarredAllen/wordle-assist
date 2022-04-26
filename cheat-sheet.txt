@@ -1,0 +1,2315 @@
+adore: soare -> adore
+chose: soare -> aitch -> chose
+close: soare -> aitch -> close
+obese: soare -> aitch -> obese
+those: soare -> aitch -> those
+whose: soare -> aitch -> whose
+arose: soare -> arose
+arson: soare -> arson
+soggy: soare -> ayont -> soggy
+solid: soare -> ayont -> solid
+sonic: soare -> ayont -> sonic
+sooth: soare -> ayont -> sooth
+sooty: soare -> ayont -> sooty
+sound: soare -> ayont -> sound
+south: soare -> ayont -> south
+brash: soare -> bachs -> brash
+brass: soare -> bachs -> brass
+crash: soare -> bachs -> crash
+crass: soare -> bachs -> crass
+grasp: soare -> bachs -> grasp
+grass: soare -> bachs -> grass
+trash: soare -> bachs -> trash
+bravo: soare -> bravo
+abode: soare -> bundt -> abode
+above: soare -> bundt -> above
+adobe: soare -> bundt -> adobe
+alone: soare -> bundt -> alone
+anode: soare -> bundt -> anode
+atone: soare -> bundt -> atone
+awoke: soare -> bundt -> awoke
+canoe: soare -> bundt -> canoe
+abase: soare -> butch -> abase
+cease: soare -> butch -> cease
+chase: soare -> butch -> chase
+lease: soare -> butch -> lease
+phase: soare -> butch -> phase
+scrub: soare -> butch -> scrub
+scrum: soare -> butch -> scrum
+shrub: soare -> butch -> shrub
+shrug: soare -> butch -> shrug
+sprig: soare -> butch -> sprig
+strip: soare -> butch -> strip
+strut: soare -> butch -> strut
+surly: soare -> butch -> surly
+syrup: soare -> butch -> syrup
+tease: soare -> butch -> tease
+usage: soare -> butch -> usage
+ahead: soare -> canal -> ahead
+alien: soare -> canal -> alien
+angel: soare -> canal -> angel
+annex: soare -> canal -> annex
+apnea: soare -> canal -> apnea
+bagel: soare -> canal -> burgh -> bagel
+gavel: soare -> canal -> burgh -> gavel
+hazel: soare -> canal -> burgh -> hazel
+label: soare -> canal -> burgh -> label
+lapel: soare -> canal -> burgh -> lapel
+camel: soare -> canal -> camel
+clean: soare -> canal -> clean
+cleat: soare -> canal -> cleat
+abbey: soare -> canal -> death -> abbey
+abled: soare -> canal -> death -> abled
+adept: soare -> canal -> death -> adept
+agent: soare -> canal -> death -> agent
+alley: soare -> canal -> death -> alley
+amend: soare -> canal -> death -> amend
+begat: soare -> canal -> death -> begat
+cadet: soare -> canal -> death -> cadet
+cagey: soare -> canal -> death -> cagey
+cheap: soare -> canal -> death -> cheap
+cheat: soare -> canal -> death -> cheat
+decal: soare -> canal -> death -> decal
+delta: soare -> canal -> death -> delta
+enema: soare -> canal -> death -> enema
+fecal: soare -> canal -> death -> fecal
+fella: soare -> canal -> death -> fella
+hyena: soare -> canal -> death -> hyena
+kebab: soare -> canal -> death -> kebab
+media: soare -> canal -> death -> media
+theta: soare -> canal -> death -> theta
+tweak: soare -> canal -> death -> tweak
+wheat: soare -> canal -> death -> wheat
+decay: soare -> canal -> decay
+began: soare -> canal -> doven -> began
+knead: soare -> canal -> doven -> knead
+vegan: soare -> canal -> doven -> vegan
+eclat: soare -> canal -> eclat
+facet: soare -> canal -> facet
+glean: soare -> canal -> glean
+laden: soare -> canal -> laden
+matey: soare -> canal -> matey
+mecca: soare -> canal -> mecca
+navel: soare -> canal -> navel
+panel: soare -> canal -> panel
+pecan: soare -> canal -> pecan
+penal: soare -> canal -> penal
+eaten: soare -> canal -> tawai -> eaten
+haven: soare -> canal -> tawai -> haven
+taken: soare -> canal -> tawai -> taken
+waxen: soare -> canal -> tawai -> waxen
+equal: soare -> canal -> tempi -> equal
+fetal: soare -> canal -> tempi -> fetal
+ideal: soare -> canal -> tempi -> ideal
+legal: soare -> canal -> tempi -> legal
+medal: soare -> canal -> tempi -> medal
+metal: soare -> canal -> tempi -> metal
+pedal: soare -> canal -> tempi -> pedal
+petal: soare -> canal -> tempi -> petal
+bleak: soare -> canal -> umpty -> bleak
+bleat: soare -> canal -> umpty -> bleat
+delay: soare -> canal -> umpty -> delay
+gleam: soare -> canal -> umpty -> gleam
+plead: soare -> canal -> umpty -> plead
+pleat: soare -> canal -> umpty -> pleat
+valet: soare -> canal -> valet
+abort: soare -> canna -> abort
+acorn: soare -> canna -> acorn
+adorn: soare -> canna -> adorn
+agora: soare -> canna -> agora
+flora: soare -> canna -> flora
+macro: soare -> canna -> macro
+agree: soare -> carby -> agree
+argue: soare -> carby -> argue
+barge: soare -> carby -> barge
+carve: soare -> carby -> carve
+farce: soare -> carby -> farce
+large: soare -> carby -> large
+range: soare -> carby -> range
+amass: soare -> chals -> amass
+chasm: soare -> chals -> chasm
+clash: soare -> chals -> clash
+clasp: soare -> chals -> clasp
+class: soare -> chals -> class
+blast: soare -> chals -> death -> blast
+flask: soare -> chals -> death -> flask
+flash: soare -> chals -> flash
+awash: soare -> chals -> geums -> awash
+gnash: soare -> chals -> geums -> gnash
+quash: soare -> chals -> geums -> quash
+glass: soare -> chals -> glass
+psalm: soare -> chals -> psalm
+quasi: soare -> chals -> quasi
+chaos: soare -> chaos
+again: soare -> clink -> again
+await: soare -> clink -> await
+chain: soare -> clink -> chain
+chalk: soare -> clink -> chalk
+chant: soare -> clink -> chant
+clack: soare -> clink -> clack
+claim: soare -> clink -> claim
+clamp: soare -> clink -> clamp
+clang: soare -> clink -> clang
+clank: soare -> clink -> clank
+adapt: soare -> clink -> death -> adapt
+flail: soare -> clink -> death -> flail
+guava: soare -> clink -> death -> guava
+plaid: soare -> clink -> death -> plaid
+plait: soare -> clink -> death -> plait
+black: soare -> clink -> fanes -> black
+flack: soare -> clink -> fanes -> flack
+flaky: soare -> clink -> flaky
+blank: soare -> clink -> frabs -> blank
+flank: soare -> clink -> frabs -> flank
+plank: soare -> clink -> frabs -> plank
+avail: soare -> clink -> geums -> avail
+quail: soare -> clink -> geums -> quail
+giant: soare -> clink -> giant
+bland: soare -> clink -> grits -> bland
+gland: soare -> clink -> grits -> gland
+plant: soare -> clink -> grits -> plant
+chaff: soare -> clink -> kames -> chaff
+champ: soare -> clink -> kames -> champ
+llama: soare -> clink -> kames -> llama
+plaza: soare -> clink -> kames -> plaza
+khaki: soare -> clink -> khaki
+knack: soare -> clink -> knack
+plain: soare -> clink -> plain
+qualm: soare -> clink -> qualm
+aback: soare -> clink -> tabus -> aback
+quack: soare -> clink -> tabus -> quack
+whack: soare -> clink -> tabus -> whack
+thank: soare -> clink -> thank
+twang: soare -> clink -> twang
+alibi: soare -> clint -> alibi
+align: soare -> clint -> align
+antic: soare -> clint -> antic
+attic: soare -> clint -> attic
+avian: soare -> clint -> avian
+bulky: soare -> clint -> badly -> bulky
+bully: soare -> clint -> badly -> bully
+dully: soare -> clint -> badly -> dully
+fully: soare -> clint -> badly -> grits -> fully
+gully: soare -> clint -> badly -> grits -> gully
+lumpy: soare -> clint -> badly -> kames -> lumpy
+pulpy: soare -> clint -> badly -> kames -> pulpy
+lymph: soare -> clint -> badly -> lymph
+aptly: soare -> clint -> balti -> aptly
+fatal: soare -> clint -> balti -> fatal
+tally: soare -> clint -> balti -> tally
+tubal: soare -> clint -> balti -> tubal
+waltz: soare -> clint -> balti -> waltz
+brand: soare -> clint -> bipod -> brand
+drank: soare -> clint -> bipod -> drank
+frank: soare -> clint -> bipod -> frank
+grand: soare -> clint -> bipod -> grand
+prank: soare -> clint -> bipod -> prank
+blimp: soare -> clint -> blimp
+blitz: soare -> clint -> blitz
+blond: soare -> clint -> blond
+blunt: soare -> clint -> blunt
+braid: soare -> clint -> braid
+bunch: soare -> clint -> bumps -> bunch
+hunch: soare -> clint -> bumps -> hunch
+munch: soare -> clint -> bumps -> munch
+punch: soare -> clint -> bumps -> punch
+batty: soare -> clint -> burfi -> batty
+datum: soare -> clint -> burfi -> datum
+fatty: soare -> clint -> burfi -> fatty
+tabby: soare -> clint -> burfi -> tabby
+taffy: soare -> clint -> burfi -> taffy
+patty: soare -> clint -> burfi -> teaze -> patty
+tatty: soare -> clint -> burfi -> teaze -> tatty
+cabin: soare -> clint -> cabin
+cacti: soare -> clint -> cacti
+canal: soare -> clint -> canal
+candy: soare -> clint -> candy
+canny: soare -> clint -> canny
+caput: soare -> clint -> caput
+cavil: soare -> clint -> cavil
+chair: soare -> clint -> chair
+chick: soare -> clint -> chick
+china: soare -> clint -> china
+chock: soare -> clint -> chock
+chunk: soare -> clint -> chunk
+civil: soare -> clint -> civil
+cloth: soare -> clint -> cloth
+clout: soare -> clint -> clout
+clown: soare -> clint -> clown
+clung: soare -> clint -> clung
+craft: soare -> clint -> craft
+crank: soare -> clint -> crank
+crawl: soare -> clint -> crawl
+amply: soare -> clint -> dampy -> amply
+apply: soare -> clint -> dampy -> apply
+awful: soare -> clint -> dampy -> awful
+badly: soare -> clint -> dampy -> badly
+balmy: soare -> clint -> dampy -> balmy
+bylaw: soare -> clint -> dampy -> bylaw
+dally: soare -> clint -> dampy -> dally
+gayly: soare -> clint -> dampy -> gayly
+laugh: soare -> clint -> dampy -> laugh
+madly: soare -> clint -> dampy -> madly
+papal: soare -> clint -> dampy -> papal
+pupal: soare -> clint -> dampy -> pupal
+amity: soare -> clint -> death -> amity
+brawl: soare -> clint -> death -> brawl
+cabby: soare -> clint -> death -> cabby
+caddy: soare -> clint -> death -> caddy
+catch: soare -> clint -> death -> catch
+catty: soare -> clint -> death -> catty
+clock: soare -> clint -> death -> clock
+cloud: soare -> clint -> death -> cloud
+draft: soare -> clint -> death -> draft
+drama: soare -> clint -> death -> drama
+drawl: soare -> clint -> death -> drawl
+duchy: soare -> clint -> death -> duchy
+dying: soare -> clint -> death -> dying
+faith: soare -> clint -> death -> faith
+filth: soare -> clint -> death -> filth
+fraud: soare -> clint -> death -> fraud
+funky: soare -> clint -> death -> funky
+ghoul: soare -> clint -> death -> ghoul
+graft: soare -> clint -> death -> graft
+graph: soare -> clint -> death -> graph
+gravy: soare -> clint -> death -> gravy
+hunky: soare -> clint -> death -> hunky
+idiom: soare -> clint -> death -> idiom
+light: soare -> clint -> death -> light
+limit: soare -> clint -> death -> limit
+minty: soare -> clint -> death -> minty
+mucky: soare -> clint -> death -> mucky
+ninth: soare -> clint -> death -> ninth
+nymph: soare -> clint -> death -> nymph
+oddly: soare -> clint -> death -> oddly
+opium: soare -> clint -> death -> opium
+outdo: soare -> clint -> death -> outdo
+outgo: soare -> clint -> death -> outgo
+photo: soare -> clint -> death -> photo
+quoth: soare -> clint -> death -> quoth
+tidal: soare -> clint -> death -> tidal
+tramp: soare -> clint -> death -> tramp
+tulip: soare -> clint -> death -> tulip
+valid: soare -> clint -> death -> valid
+villa: soare -> clint -> death -> villa
+vital: soare -> clint -> death -> vital
+vying: soare -> clint -> death -> vying
+whiny: soare -> clint -> death -> whiny
+wrath: soare -> clint -> death -> wrath
+blood: soare -> clint -> dhaba -> blood
+bloom: soare -> clint -> dhaba -> bloom
+brain: soare -> clint -> dhaba -> brain
+brawn: soare -> clint -> dhaba -> brawn
+build: soare -> clint -> dhaba -> build
+dandy: soare -> clint -> dhaba -> dandy
+drain: soare -> clint -> dhaba -> drain
+drawn: soare -> clint -> dhaba -> drawn
+flood: soare -> clint -> dhaba -> flood
+gloom: soare -> clint -> dhaba -> gloom
+grain: soare -> clint -> dhaba -> grain
+guild: soare -> clint -> dhaba -> guild
+handy: soare -> clint -> dhaba -> handy
+human: soare -> clint -> dhaba -> human
+manga: soare -> clint -> dhaba -> manga
+mangy: soare -> clint -> dhaba -> mangy
+pagan: soare -> clint -> dhaba -> pagan
+prawn: soare -> clint -> dhaba -> prawn
+quill: soare -> clint -> dhaba -> quill
+ditto: soare -> clint -> ditto
+dingy: soare -> clint -> dumpy -> dingy
+fungi: soare -> clint -> dumpy -> fungi
+kinky: soare -> clint -> dumpy -> kinky
+minim: soare -> clint -> dumpy -> minim
+pinky: soare -> clint -> dumpy -> pinky
+undid: soare -> clint -> dumpy -> undid
+unzip: soare -> clint -> dumpy -> unzip
+windy: soare -> clint -> dumpy -> windy
+affix: soare -> clint -> faded -> affix
+aphid: soare -> clint -> faded -> aphid
+axial: soare -> clint -> faded -> axial
+blind: soare -> clint -> faded -> blind
+blink: soare -> clint -> faded -> blink
+daily: soare -> clint -> faded -> daily
+fling: soare -> clint -> faded -> fling
+gaily: soare -> clint -> faded -> gaily
+mafia: soare -> clint -> faded -> mafia
+maxim: soare -> clint -> faded -> maxim
+pizza: soare -> clint -> faded -> pizza
+vapid: soare -> clint -> faded -> vapid
+fancy: soare -> clint -> fancy
+adult: soare -> clint -> fanes -> adult
+block: soare -> clint -> fanes -> block
+blown: soare -> clint -> fanes -> blown
+bunny: soare -> clint -> fanes -> bunny
+fanny: soare -> clint -> fanes -> fanny
+fault: soare -> clint -> fanes -> fault
+fauna: soare -> clint -> fanes -> fauna
+flock: soare -> clint -> fanes -> flock
+flown: soare -> clint -> fanes -> flown
+funny: soare -> clint -> fanes -> funny
+nanny: soare -> clint -> fanes -> nanny
+vault: soare -> clint -> fanes -> vault
+flair: soare -> clint -> flair
+flick: soare -> clint -> flick
+flout: soare -> clint -> flout
+fluid: soare -> clint -> fluid
+biddy: soare -> clint -> fudgy -> biddy
+hippy: soare -> clint -> fudgy -> death -> hippy
+wimpy: soare -> clint -> fudgy -> death -> wimpy
+dizzy: soare -> clint -> fudgy -> dizzy
+fizzy: soare -> clint -> fudgy -> fizzy
+giddy: soare -> clint -> fudgy -> giddy
+humid: soare -> clint -> fudgy -> humid
+jiffy: soare -> clint -> fudgy -> jiffy
+piggy: soare -> clint -> fudgy -> piggy
+vivid: soare -> clint -> fudgy -> vivid
+gamut: soare -> clint -> gamut
+civic: soare -> clint -> geums -> civic
+cubic: soare -> clint -> geums -> cubic
+lunch: soare -> clint -> geums -> lunch
+lynch: soare -> clint -> geums -> lynch
+onion: soare -> clint -> geums -> onion
+union: soare -> clint -> geums -> union
+built: soare -> clint -> giber -> built
+guilt: soare -> clint -> giber -> guilt
+quilt: soare -> clint -> giber -> quilt
+grant: soare -> clint -> grant
+bigot: soare -> clint -> grits -> bigot
+flint: soare -> clint -> grits -> flint
+frail: soare -> clint -> grits -> frail
+glint: soare -> clint -> grits -> glint
+grail: soare -> clint -> grits -> grail
+pivot: soare -> clint -> grits -> pivot
+aunty: soare -> clint -> grype -> aunty
+flung: soare -> clint -> grype -> flung
+flunk: soare -> clint -> grype -> flunk
+input: soare -> clint -> grype -> input
+junta: soare -> clint -> grype -> junta
+night: soare -> clint -> grype -> night
+plunk: soare -> clint -> grype -> plunk
+tangy: soare -> clint -> grype -> tangy
+thing: soare -> clint -> grype -> thing
+think: soare -> clint -> grype -> think
+tying: soare -> clint -> grype -> tying
+unfit: soare -> clint -> grype -> unfit
+ditty: soare -> clint -> hated -> ditty
+fifth: soare -> clint -> hated -> fifth
+fifty: soare -> clint -> hated -> fifty
+bitty: soare -> clint -> hated -> kerbs -> bitty
+kitty: soare -> clint -> hated -> kerbs -> kitty
+witty: soare -> clint -> hated -> kerbs -> witty
+pithy: soare -> clint -> hated -> pithy
+timid: soare -> clint -> hated -> timid
+width: soare -> clint -> hated -> width
+bingo: soare -> clint -> hends -> bingo
+butch: soare -> clint -> hends -> butch
+cinch: soare -> clint -> hends -> cinch
+cumin: soare -> clint -> hends -> cumin
+cynic: soare -> clint -> hends -> cynic
+dingo: soare -> clint -> hends -> dingo
+dutch: soare -> clint -> hends -> dutch
+hutch: soare -> clint -> hends -> hutch
+inbox: soare -> clint -> hends -> inbox
+icily: soare -> clint -> icily
+icing: soare -> clint -> icing
+idiot: soare -> clint -> idiot
+iliac: soare -> clint -> iliac
+ingot: soare -> clint -> ingot
+junto: soare -> clint -> junto
+admin: soare -> clint -> kames -> admin
+admit: soare -> clint -> kames -> admit
+audit: soare -> clint -> kames -> audit
+cabal: soare -> clint -> kames -> cabal
+caulk: soare -> clint -> kames -> caulk
+chuck: soare -> clint -> kames -> chuck
+chump: soare -> clint -> kames -> chump
+click: soare -> clint -> kames -> click
+cliff: soare -> clint -> kames -> cliff
+climb: soare -> clint -> kames -> climb
+cling: soare -> clint -> kames -> cling
+clink: soare -> clint -> kames -> clink
+cluck: soare -> clint -> kames -> cluck
+clump: soare -> clint -> kames -> clump
+crack: soare -> clint -> kames -> crack
+cramp: soare -> clint -> kames -> cramp
+crazy: soare -> clint -> kames -> crazy
+gulch: soare -> clint -> kames -> gulch
+habit: soare -> clint -> kames -> habit
+igloo: soare -> clint -> kames -> igloo
+knoll: soare -> clint -> kames -> knoll
+limbo: soare -> clint -> kames -> limbo
+lucky: soare -> clint -> kames -> lucky
+macaw: soare -> clint -> kames -> macaw
+mania: soare -> clint -> kames -> mania
+manic: soare -> clint -> kames -> manic
+mimic: soare -> clint -> kames -> mimic
+mulch: soare -> clint -> kames -> mulch
+ninja: soare -> clint -> kames -> ninja
+nylon: soare -> clint -> kames -> nylon
+panic: soare -> clint -> kames -> panic
+picky: soare -> clint -> kames -> picky
+pubic: soare -> clint -> kames -> pubic
+wacky: soare -> clint -> kames -> wacky
+child: soare -> clint -> khadi -> child
+chili: soare -> clint -> khadi -> chili
+chill: soare -> clint -> khadi -> chill
+knock: soare -> clint -> knock
+known: soare -> clint -> known
+annul: soare -> clint -> lambs -> annul
+banal: soare -> clint -> lambs -> banal
+lanky: soare -> clint -> lambs -> lanky
+manly: soare -> clint -> lambs -> manly
+naval: soare -> clint -> lambs -> naval
+latch: soare -> clint -> latch
+lilac: soare -> clint -> lilac
+lingo: soare -> clint -> lingo
+buxom: soare -> clint -> lolog -> buxom
+gumbo: soare -> clint -> lolog -> gumbo
+jumbo: soare -> clint -> lolog -> jumbo
+whoop: soare -> clint -> lolog -> whoop
+juicy: soare -> clint -> loury -> juicy
+quick: soare -> clint -> loury -> quick
+which: soare -> clint -> loury -> which
+lucid: soare -> clint -> lucid
+lying: soare -> clint -> lying
+magic: soare -> clint -> magic
+baggy: soare -> clint -> midgy -> baggy
+bawdy: soare -> clint -> midgy -> bawdy
+daddy: soare -> clint -> midgy -> death -> daddy
+happy: soare -> clint -> midgy -> death -> happy
+jazzy: soare -> clint -> midgy -> death -> jazzy
+paddy: soare -> clint -> midgy -> death -> paddy
+gamma: soare -> clint -> midgy -> gamma
+gaudy: soare -> clint -> midgy -> gaudy
+gawky: soare -> clint -> midgy -> gawky
+kappa: soare -> clint -> midgy -> kappa
+kayak: soare -> clint -> midgy -> kayak
+madam: soare -> clint -> midgy -> madam
+magma: soare -> clint -> midgy -> magma
+mamma: soare -> clint -> midgy -> mamma
+mammy: soare -> clint -> midgy -> mammy
+dilly: soare -> clint -> milds -> dilly
+dimly: soare -> clint -> milds -> dimly
+filmy: soare -> clint -> milds -> filmy
+billy: soare -> clint -> milds -> howff -> billy
+filly: soare -> clint -> milds -> howff -> filly
+hilly: soare -> clint -> milds -> howff -> hilly
+willy: soare -> clint -> milds -> howff -> willy
+idyll: soare -> clint -> milds -> idyll
+imply: soare -> clint -> milds -> imply
+milky: soare -> clint -> milds -> milky
+lipid: soare -> clint -> milds -> ovoli -> lipid
+livid: soare -> clint -> milds -> ovoli -> livid
+pupil: soare -> clint -> milds -> pupil
+vigil: soare -> clint -> milds -> vigil
+hippo: soare -> clint -> motor -> hippo
+ovoid: soare -> clint -> motor -> ovoid
+widow: soare -> clint -> motor -> widow
+natal: soare -> clint -> natal
+ninny: soare -> clint -> ninny
+anvil: soare -> clint -> nitry -> anvil
+final: soare -> clint -> nitry -> final
+inlay: soare -> clint -> nitry -> inlay
+nutty: soare -> clint -> nutty
+optic: soare -> clint -> optic
+ought: soare -> clint -> ought
+owing: soare -> clint -> owing
+phony: soare -> clint -> phony
+pilot: soare -> clint -> pilot
+finch: soare -> clint -> pilow -> finch
+pinch: soare -> clint -> pilow -> pinch
+winch: soare -> clint -> pilow -> winch
+pinto: soare -> clint -> pinto
+pluck: soare -> clint -> pluck
+album: soare -> clint -> pozzy -> album
+allay: soare -> clint -> pozzy -> allay
+alpha: soare -> clint -> pozzy -> alpha
+putty: soare -> clint -> pozzy -> putty
+thumb: soare -> clint -> pozzy -> thumb
+thump: soare -> clint -> pozzy -> thump
+pudgy: soare -> clint -> pudgy
+buggy: soare -> clint -> pudgy -> buggy
+dummy: soare -> clint -> pudgy -> dummy
+dumpy: soare -> clint -> pudgy -> dumpy
+puffy: soare -> clint -> pudgy -> fanes -> puffy
+puppy: soare -> clint -> pudgy -> fanes -> puppy
+gummy: soare -> clint -> pudgy -> gummy
+guppy: soare -> clint -> pudgy -> guppy
+humph: soare -> clint -> pudgy -> humph
+jumpy: soare -> clint -> pudgy -> jumpy
+buddy: soare -> clint -> pudgy -> kames -> buddy
+fuzzy: soare -> clint -> pudgy -> kames -> fuzzy
+muddy: soare -> clint -> pudgy -> kames -> muddy
+mummy: soare -> clint -> pudgy -> kames -> mummy
+pygmy: soare -> clint -> pudgy -> pygmy
+aging: soare -> clint -> spent -> aging
+aping: soare -> clint -> spent -> aping
+tacit: soare -> clint -> tacit
+faint: soare -> clint -> tapis -> faint
+paint: soare -> clint -> tapis -> paint
+taint: soare -> clint -> tapis -> taint
+tawny: soare -> clint -> tawny
+thick: soare -> clint -> thick
+thigh: soare -> clint -> thigh
+daunt: soare -> clint -> thigs -> doven -> daunt
+jaunt: soare -> clint -> thigs -> doven -> jaunt
+vaunt: soare -> clint -> thigs -> doven -> vaunt
+gaunt: soare -> clint -> thigs -> gaunt
+haunt: soare -> clint -> thigs -> haunt
+taunt: soare -> clint -> thigs -> taunt
+thong: soare -> clint -> thong
+tibia: soare -> clint -> tibia
+titan: soare -> clint -> titan
+track: soare -> clint -> track
+tract: soare -> clint -> tract
+trail: soare -> clint -> trail
+train: soare -> clint -> train
+trait: soare -> clint -> trait
+trawl: soare -> clint -> trawl
+tunic: soare -> clint -> tunic
+twixt: soare -> clint -> twixt
+bluff: soare -> clint -> umbre -> bluff
+fluff: soare -> clint -> umbre -> fluff
+glyph: soare -> clint -> umbre -> glyph
+plumb: soare -> clint -> umbre -> plumb
+plump: soare -> clint -> umbre -> plump
+uncut: soare -> clint -> uncut
+unify: soare -> clint -> unify
+unity: soare -> clint -> unity
+unlit: soare -> clint -> unlit
+until: soare -> clint -> until
+vinyl: soare -> clint -> vinyl
+whiff: soare -> clint -> whiff
+digit: soare -> clint -> whims -> digit
+might: soare -> clint -> whims -> might
+fight: soare -> clint -> whims -> teaze -> fight
+tight: soare -> clint -> whims -> teaze -> tight
+wight: soare -> clint -> whims -> wight
+batch: soare -> clint -> whump -> hends -> batch
+hatch: soare -> clint -> whump -> hends -> hatch
+match: soare -> clint -> whump -> match
+patch: soare -> clint -> whump -> patch
+tacky: soare -> clint -> whump -> tacky
+watch: soare -> clint -> whump -> watch
+ditch: soare -> clint -> wiped -> ditch
+hitch: soare -> clint -> wiped -> hitch
+itchy: soare -> clint -> wiped -> itchy
+pitch: soare -> clint -> wiped -> pitch
+witch: soare -> clint -> wiped -> witch
+wrack: soare -> clint -> wrack
+yacht: soare -> clint -> yacht
+setup: soare -> clipt -> death -> setup
+sheet: soare -> clipt -> death -> sheet
+sheik: soare -> clipt -> death -> sheik
+sinew: soare -> clipt -> death -> sinew
+steep: soare -> clipt -> death -> steep
+sweet: soare -> clipt -> death -> sweet
+shelf: soare -> clipt -> hamal -> shelf
+shell: soare -> clipt -> hamal -> shell
+smell: soare -> clipt -> hamal -> smell
+swell: soare -> clipt -> hamal -> swell
+sheep: soare -> clipt -> hends -> sheep
+speed: soare -> clipt -> hends -> speed
+spend: soare -> clipt -> hends -> spend
+sweep: soare -> clipt -> hends -> sweep
+seedy: soare -> clipt -> merde -> seedy
+semen: soare -> clipt -> merde -> semen
+seven: soare -> clipt -> merde -> seven
+sheen: soare -> clipt -> merde -> sheen
+scent: soare -> clipt -> scent
+shied: soare -> clipt -> shied
+sleek: soare -> clipt -> sleek
+sleep: soare -> clipt -> sleep
+sleet: soare -> clipt -> sleet
+slept: soare -> clipt -> slept
+smelt: soare -> clipt -> smelt
+speck: soare -> clipt -> speck
+spell: soare -> clipt -> spell
+spelt: soare -> clipt -> spelt
+spent: soare -> clipt -> spent
+spied: soare -> clipt -> spied
+spiel: soare -> clipt -> spiel
+steed: soare -> clipt -> steed
+steel: soare -> clipt -> steel
+stein: soare -> clipt -> stein
+swept: soare -> clipt -> swept
+abbot: soare -> cloot -> abbot
+afoot: soare -> cloot -> afoot
+aglow: soare -> cloot -> aglow
+allot: soare -> cloot -> allot
+aloof: soare -> cloot -> aloof
+atoll: soare -> cloot -> atoll
+baton: soare -> cloot -> baton
+cacao: soare -> cloot -> cacao
+canon: soare -> cloot -> canon
+cloak: soare -> cloot -> cloak
+about: soare -> cloot -> death -> about
+adopt: soare -> cloot -> death -> adopt
+along: soare -> cloot -> death -> along
+aloud: soare -> cloot -> death -> aloud
+bacon: soare -> cloot -> death -> bacon
+havoc: soare -> cloot -> death -> havoc
+scold: soare -> cloot -> death -> scold
+scowl: soare -> cloot -> death -> scowl
+stood: soare -> cloot -> death -> stood
+stoop: soare -> cloot -> death -> stoop
+annoy: soare -> cloot -> fanes -> annoy
+axiom: soare -> cloot -> fanes -> axiom
+axion: soare -> cloot -> fanes -> axion
+bayou: soare -> cloot -> fanes -> bayou
+wagon: soare -> cloot -> fanes -> wagon
+aloft: soare -> cloot -> frabs -> aloft
+bloat: soare -> cloot -> frabs -> bloat
+float: soare -> cloot -> frabs -> float
+gloat: soare -> cloot -> frabs -> gloat
+agony: soare -> cloot -> geums -> agony
+among: soare -> cloot -> geums -> among
+avoid: soare -> cloot -> geums -> avoid
+afoul: soare -> cloot -> grits -> afoul
+patio: soare -> cloot -> grits -> patio
+tango: soare -> cloot -> grits -> tango
+viola: soare -> cloot -> grits -> viola
+shown: soare -> cloot -> hends -> shown
+showy: soare -> cloot -> hends -> showy
+smoky: soare -> cloot -> hends -> smoky
+snowy: soare -> cloot -> hends -> snowy
+audio: soare -> cloot -> kames -> audio
+banjo: soare -> cloot -> kames -> banjo
+mambo: soare -> cloot -> kames -> mambo
+mango: soare -> cloot -> kames -> mango
+scoff: soare -> cloot -> kames -> scoff
+shock: soare -> cloot -> kames -> shock
+smock: soare -> cloot -> kames -> smock
+stock: soare -> cloot -> kames -> stock
+stoic: soare -> cloot -> kames -> stoic
+stomp: soare -> cloot -> kames -> stomp
+stony: soare -> cloot -> kames -> stony
+macho: soare -> cloot -> macho
+octal: soare -> cloot -> octal
+offal: soare -> cloot -> offal
+allow: soare -> cloot -> pozzy -> allow
+alloy: soare -> cloot -> pozzy -> alloy
+quota: soare -> cloot -> quota
+scion: soare -> cloot -> scion
+scoop: soare -> cloot -> scoop
+scout: soare -> cloot -> scout
+shoot: soare -> cloot -> shoot
+sloop: soare -> cloot -> sloop
+slosh: soare -> cloot -> slosh
+sloth: soare -> cloot -> sloth
+shook: soare -> cloot -> spank -> shook
+snoop: soare -> cloot -> spank -> snoop
+spoof: soare -> cloot -> spank -> spoof
+spook: soare -> cloot -> spank -> spook
+spoon: soare -> cloot -> spank -> spoon
+swoon: soare -> cloot -> spank -> swoon
+swoop: soare -> cloot -> spank -> swoop
+spoil: soare -> cloot -> spoil
+spool: soare -> cloot -> spool
+shout: soare -> cloot -> staph -> shout
+snout: soare -> cloot -> staph -> snout
+spout: soare -> cloot -> staph -> spout
+stout: soare -> cloot -> staph -> stout
+stool: soare -> cloot -> stool
+synod: soare -> cloot -> synod
+taboo: soare -> cloot -> taboo
+talon: soare -> cloot -> talon
+booze: soare -> cloud -> booze
+boule: soare -> cloud -> boule
+coupe: soare -> cloud -> coupe
+dodge: soare -> cloud -> dodge
+gouge: soare -> cloud -> gouge
+lodge: soare -> cloud -> lodge
+movie: soare -> cloud -> movie
+noble: soare -> cloud -> noble
+vogue: soare -> cloud -> vogue
+voice: soare -> cloud -> voice
+cobra: soare -> cobra
+bison: soare -> crogs -> bison
+disco: soare -> crogs -> disco
+floss: soare -> crogs -> floss
+ghost: soare -> crogs -> ghost
+gloss: soare -> crogs -> gloss
+gusto: soare -> crogs -> gusto
+kiosk: soare -> crogs -> kiosk
+booty: soare -> culty -> booty
+bough: soare -> culty -> bumph -> bough
+bound: soare -> culty -> bumph -> bound
+dough: soare -> culty -> bumph -> dough
+found: soare -> culty -> bumph -> fanes -> found
+wound: soare -> culty -> bumph -> fanes -> wound
+hound: soare -> culty -> bumph -> hound
+mound: soare -> culty -> bumph -> mound
+pound: soare -> culty -> bumph -> pound
+colon: soare -> culty -> colon
+comfy: soare -> culty -> comfy
+could: soare -> culty -> could
+count: soare -> culty -> count
+coyly: soare -> culty -> coyly
+ionic: soare -> culty -> death -> ionic
+mogul: soare -> culty -> death -> mogul
+pooch: soare -> culty -> death -> pooch
+would: soare -> culty -> death -> would
+holly: soare -> culty -> defog -> death -> holly
+jolly: soare -> culty -> defog -> death -> jolly
+dolly: soare -> culty -> defog -> dolly
+folly: soare -> culty -> defog -> folly
+golly: soare -> culty -> defog -> golly
+moldy: soare -> culty -> defog -> moldy
+booby: soare -> culty -> droog -> abbes -> booby
+boozy: soare -> culty -> droog -> abbes -> boozy
+woozy: soare -> culty -> droog -> abbes -> woozy
+bobby: soare -> culty -> droog -> balti -> bobby
+hobby: soare -> culty -> droog -> balti -> hobby
+poppy: soare -> culty -> droog -> balti -> poppy
+dodgy: soare -> culty -> droog -> dodgy
+foggy: soare -> culty -> droog -> foggy
+goody: soare -> culty -> droog -> goody
+goofy: soare -> culty -> droog -> goofy
+howdy: soare -> culty -> droog -> howdy
+moody: soare -> culty -> droog -> kames -> moody
+woody: soare -> culty -> droog -> kames -> woody
+dowdy: soare -> culty -> droog -> trode -> dowdy
+downy: soare -> culty -> droog -> trode -> downy
+folio: soare -> culty -> folio
+donut: soare -> culty -> geums -> donut
+doubt: soare -> culty -> geums -> doubt
+mount: soare -> culty -> geums -> mount
+tough: soare -> culty -> geums -> tough
+bongo: soare -> culty -> grits -> bongo
+couch: soare -> culty -> grits -> couch
+cough: soare -> culty -> grits -> cough
+doing: soare -> culty -> grits -> doing
+going: soare -> culty -> grits -> going
+comic: soare -> culty -> hends -> comic
+conch: soare -> culty -> hends -> conch
+condo: soare -> culty -> hends -> condo
+conic: soare -> culty -> hends -> conic
+hotly: soare -> culty -> hotly
+botch: soare -> culty -> ixnay -> botch
+notch: soare -> culty -> ixnay -> notch
+tonic: soare -> culty -> ixnay -> tonic
+topic: soare -> culty -> ixnay -> topic
+toxic: soare -> culty -> ixnay -> toxic
+lofty: soare -> culty -> lofty
+logic: soare -> culty -> logic
+login: soare -> culty -> login
+godly: soare -> culty -> lolog -> godly
+lobby: soare -> culty -> lolog -> lobby
+loopy: soare -> culty -> lolog -> loopy
+lowly: soare -> culty -> lolog -> lowly
+nobly: soare -> culty -> lolog -> nobly
+wooly: soare -> culty -> lolog -> wooly
+moult: soare -> culty -> moult
+mouth: soare -> culty -> mouth
+pouch: soare -> culty -> ovoli -> pouch
+vouch: soare -> culty -> ovoli -> vouch
+polyp: soare -> culty -> polyp
+pouty: soare -> culty -> pouty
+joint: soare -> culty -> spent -> joint
+motif: soare -> culty -> spent -> motif
+point: soare -> culty -> spent -> point
+toxin: soare -> culty -> spent -> toxin
+vomit: soare -> culty -> spent -> vomit
+booth: soare -> culty -> stout -> booth
+month: soare -> culty -> stout -> month
+motto: soare -> culty -> stout -> motto
+tooth: soare -> culty -> stout -> tooth
+toddy: soare -> culty -> toddy
+touch: soare -> culty -> touch
+young: soare -> culty -> young
+youth: soare -> culty -> youth
+brown: soare -> cutin -> bodge -> brown
+drown: soare -> cutin -> bodge -> drown
+frown: soare -> cutin -> bodge -> frown
+grown: soare -> cutin -> bodge -> grown
+broil: soare -> cutin -> broil
+choir: soare -> cutin -> choir
+crony: soare -> cutin -> crony
+croup: soare -> cutin -> croup
+crown: soare -> cutin -> crown
+curio: soare -> cutin -> curio
+droit: soare -> cutin -> death -> droit
+orbit: soare -> cutin -> death -> orbit
+primo: soare -> cutin -> divot -> primo
+prior: soare -> cutin -> divot -> prior
+rigor: soare -> cutin -> divot -> rigor
+vigor: soare -> cutin -> divot -> vigor
+broth: soare -> cutin -> flobs -> broth
+froth: soare -> cutin -> flobs -> froth
+throb: soare -> cutin -> flobs -> throb
+throw: soare -> cutin -> flobs -> throw
+troll: soare -> cutin -> flobs -> troll
+troop: soare -> cutin -> flobs -> troop
+furor: soare -> cutin -> forth -> furor
+humor: soare -> cutin -> forth -> humor
+juror: soare -> cutin -> forth -> juror
+rumor: soare -> cutin -> forth -> rumor
+frock: soare -> cutin -> frock
+front: soare -> cutin -> front
+droll: soare -> cutin -> gloop -> droll
+drool: soare -> cutin -> gloop -> drool
+droop: soare -> cutin -> gloop -> droop
+floor: soare -> cutin -> gloop -> floor
+groom: soare -> cutin -> gloop -> groom
+growl: soare -> cutin -> gloop -> growl
+brood: soare -> cutin -> gloop -> kames -> brood
+brook: soare -> cutin -> gloop -> kames -> brook
+broom: soare -> cutin -> gloop -> kames -> broom
+proof: soare -> cutin -> gloop -> proof
+prowl: soare -> cutin -> gloop -> prowl
+proxy: soare -> cutin -> gloop -> proxy
+flour: soare -> cutin -> grits -> flour
+group: soare -> cutin -> grits -> group
+grout: soare -> cutin -> grits -> grout
+irony: soare -> cutin -> grits -> irony
+minor: soare -> cutin -> grits -> minor
+proud: soare -> cutin -> grits -> proud
+rhino: soare -> cutin -> grits -> rhino
+trout: soare -> cutin -> grits -> trout
+groin: soare -> cutin -> groin
+frond: soare -> cutin -> grype -> frond
+prong: soare -> cutin -> grype -> prong
+wrong: soare -> cutin -> grype -> wrong
+tumor: soare -> cutin -> kames -> tumor
+turbo: soare -> cutin -> kames -> turbo
+occur: soare -> cutin -> occur
+crock: soare -> cutin -> shrow -> crock
+crook: soare -> cutin -> shrow -> crook
+crowd: soare -> cutin -> shrow -> crowd
+tutor: soare -> cutin -> tutor
+color: soare -> cyton -> color
+corny: soare -> cyton -> corny
+donor: soare -> cyton -> death -> donor
+honor: soare -> cyton -> death -> honor
+forth: soare -> cyton -> fanes -> forth
+worth: soare -> cyton -> fanes -> worth
+forty: soare -> cyton -> forty
+forgo: soare -> cyton -> geums -> forgo
+forum: soare -> cyton -> geums -> forum
+morph: soare -> cyton -> geums -> morph
+rough: soare -> cyton -> geums -> rough
+world: soare -> cyton -> geums -> world
+horny: soare -> cyton -> horny
+motor: soare -> cyton -> kames -> motor
+rotor: soare -> cyton -> kames -> rotor
+moron: soare -> cyton -> moron
+north: soare -> cyton -> north
+porch: soare -> cyton -> porch
+robin: soare -> cyton -> robin
+robot: soare -> cyton -> robot
+rocky: soare -> cyton -> rocky
+round: soare -> cyton -> round
+torch: soare -> cyton -> torch
+roomy: soare -> cyton -> whims -> roomy
+rowdy: soare -> cyton -> whims -> rowdy
+wordy: soare -> cyton -> whims -> wordy
+saucy: soare -> dault -> fanes -> saucy
+sauna: soare -> dault -> fanes -> sauna
+sadly: soare -> dault -> sadly
+saint: soare -> dault -> saint
+salad: soare -> dault -> salad
+sally: soare -> dault -> sally
+salsa: soare -> dault -> salsa
+salty: soare -> dault -> salty
+sandy: soare -> dault -> sandy
+satin: soare -> dault -> satin
+scuba: soare -> dault -> scuba
+sigma: soare -> dault -> sigma
+splat: soare -> dault -> splat
+squad: soare -> dault -> squad
+squat: soare -> dault -> squat
+sumac: soare -> dault -> sumac
+sappy: soare -> dault -> vapor -> sappy
+sassy: soare -> dault -> vapor -> sassy
+savvy: soare -> dault -> vapor -> savvy
+board: soare -> death -> board
+chore: soare -> death -> chore
+ethos: soare -> death -> ethos
+fibre: soare -> death -> fibre
+genre: soare -> death -> genre
+hoard: soare -> death -> hoard
+ombre: soare -> death -> ombre
+onset: soare -> death -> onset
+pesto: soare -> death -> pesto
+reach: soare -> death -> reach
+react: soare -> death -> react
+ready: soare -> death -> ready
+realm: soare -> death -> realm
+shire: soare -> death -> shire
+sperm: soare -> death -> sperm
+spire: soare -> death -> spire
+stern: soare -> death -> stern
+there: soare -> death -> there
+where: soare -> death -> where
+befit: soare -> denet -> befit
+beget: soare -> denet -> beget
+betel: soare -> denet -> betel
+belch: soare -> denet -> bills -> belch
+belly: soare -> denet -> bills -> belly
+helix: soare -> denet -> bills -> helix
+jelly: soare -> denet -> bills -> jelly
+leggy: soare -> denet -> bills -> leggy
+weigh: soare -> denet -> bills -> weigh
+welch: soare -> denet -> bills -> welch
+bevel: soare -> denet -> brave -> bevel
+bezel: soare -> denet -> brave -> bezel
+jewel: soare -> denet -> brave -> jewel
+level: soare -> denet -> brave -> level
+deity: soare -> denet -> death -> deity
+depth: soare -> denet -> death -> depth
+deign: soare -> denet -> deign
+denim: soare -> denet -> denim
+beech: soare -> denet -> dhaba -> beech
+beefy: soare -> denet -> dhaba -> beefy
+geeky: soare -> denet -> dhaba -> geeky
+leech: soare -> denet -> dhaba -> leech
+dicey: soare -> denet -> dicey
+duvet: soare -> denet -> duvet
+dwell: soare -> denet -> dwell
+dwelt: soare -> denet -> dwelt
+edict: soare -> denet -> edict
+elegy: soare -> denet -> elegy
+enemy: soare -> denet -> enemy
+ennui: soare -> denet -> ennui
+event: soare -> denet -> event
+blend: soare -> denet -> grits -> blend
+clued: soare -> denet -> grits -> clued
+debit: soare -> denet -> grits -> debit
+debug: soare -> denet -> grits -> debug
+debut: soare -> denet -> grits -> debut
+devil: soare -> denet -> grits -> devil
+empty: soare -> denet -> grits -> empty
+ethic: soare -> denet -> grits -> ethic
+fiend: soare -> denet -> grits -> fiend
+filet: soare -> denet -> grits -> filet
+piety: soare -> denet -> grits -> piety
+plied: soare -> denet -> grits -> plied
+quiet: soare -> denet -> grits -> quiet
+eking: soare -> denet -> grype -> eking
+elfin: soare -> denet -> grype -> elfin
+eying: soare -> denet -> grype -> eying
+bleed: soare -> denet -> kames -> bleed
+embed: soare -> denet -> kames -> embed
+inept: soare -> denet -> kames -> inept
+inlet: soare -> denet -> kames -> inlet
+kneel: soare -> denet -> kames -> kneel
+knelt: soare -> denet -> kames -> knelt
+queen: soare -> denet -> kames -> queen
+unmet: soare -> denet -> kames -> unmet
+kneed: soare -> denet -> kneed
+check: soare -> denet -> leuco -> check
+equip: soare -> denet -> leuco -> equip
+fleck: soare -> denet -> leuco -> fleck
+quell: soare -> denet -> leuco -> quell
+whelp: soare -> denet -> leuco -> whelp
+medic: soare -> denet -> medic
+begin: soare -> denet -> naifs -> begin
+begun: soare -> denet -> naifs -> begun
+being: soare -> denet -> naifs -> being
+feign: soare -> denet -> naifs -> feign
+neigh: soare -> denet -> naifs -> neigh
+newly: soare -> denet -> naifs -> newly
+needy: soare -> denet -> needy
+cleft: soare -> denet -> ovoli -> cleft
+eight: soare -> denet -> ovoli -> eight
+eject: soare -> denet -> ovoli -> eject
+elect: soare -> denet -> ovoli -> elect
+evict: soare -> denet -> ovoli -> evict
+exult: soare -> denet -> ovoli -> exult
+linen: soare -> denet -> ovoli -> linen
+piney: soare -> denet -> ovoli -> piney
+theft: soare -> denet -> ovoli -> theft
+fetch: soare -> denet -> pitch -> fetch
+hefty: soare -> denet -> pitch -> hefty
+jetty: soare -> denet -> pitch -> jetty
+lefty: soare -> denet -> pitch -> lefty
+petty: soare -> denet -> pitch -> petty
+bleep: soare -> denet -> spect -> bleep
+cheek: soare -> denet -> spect -> cheek
+excel: soare -> denet -> spect -> excel
+expel: soare -> denet -> spect -> expel
+wheel: soare -> denet -> spect -> wheel
+fleet: soare -> denet -> teaze -> fleet
+tweet: soare -> denet -> teaze -> tweet
+teeth: soare -> denet -> teeth
+tenet: soare -> denet -> tenet
+tenth: soare -> denet -> tenth
+thief: soare -> denet -> thief
+fetid: soare -> denet -> trode -> fetid
+teddy: soare -> denet -> trode -> teddy
+tepid: soare -> denet -> trode -> tepid
+tweed: soare -> denet -> tweed
+weedy: soare -> denet -> weedy
+bench: soare -> denet -> whims -> bench
+index: soare -> denet -> whims -> index
+penny: soare -> denet -> whims -> penny
+unfed: soare -> denet -> whims -> unfed
+unwed: soare -> denet -> whims -> unwed
+wench: soare -> denet -> whims -> wench
+widen: soare -> denet -> whims -> widen
+given: soare -> denet -> xylem -> given
+hymen: soare -> denet -> xylem -> hymen
+liken: soare -> denet -> xylem -> liken
+lumen: soare -> denet -> xylem -> lumen
+vixen: soare -> denet -> xylem -> vixen
+edify: soare -> denet -> yawps -> edify
+field: soare -> denet -> yawps -> field
+wield: soare -> denet -> yawps -> wield
+yield: soare -> denet -> yawps -> yield
+bicep: soare -> denet -> zilla -> bicep
+chief: soare -> denet -> zilla -> chief
+impel: soare -> denet -> zilla -> impel
+libel: soare -> denet -> zilla -> libel
+pixel: soare -> denet -> zilla -> pixel
+beady: soare -> depth -> beady
+dealt: soare -> depth -> dealt
+death: soare -> depth -> death
+email: soare -> depth -> email
+enact: soare -> depth -> fanal -> enact
+exact: soare -> depth -> fanal -> exact
+exalt: soare -> depth -> fanal -> exalt
+heady: soare -> depth -> heady
+heath: soare -> depth -> heath
+heavy: soare -> depth -> heavy
+leafy: soare -> depth -> kames -> leafy
+leaky: soare -> depth -> kames -> leaky
+leant: soare -> depth -> kames -> leant
+mealy: soare -> depth -> kames -> mealy
+meant: soare -> depth -> kames -> meant
+leapt: soare -> depth -> leapt
+meaty: soare -> depth -> meaty
+beach: soare -> depth -> ovoli -> beach
+leach: soare -> depth -> ovoli -> leach
+peach: soare -> depth -> peach
+teach: soare -> depth -> teach
+alarm: soare -> dhuti -> alarm
+apart: soare -> dhuti -> apart
+award: soare -> dhuti -> award
+chard: soare -> dhuti -> chard
+chart: soare -> dhuti -> chart
+diary: soare -> dhuti -> diary
+dwarf: soare -> dhuti -> dwarf
+guard: soare -> dhuti -> guard
+charm: soare -> dhuti -> kames -> charm
+wharf: soare -> dhuti -> kames -> wharf
+quark: soare -> dhuti -> quark
+quart: soare -> dhuti -> quart
+tiara: soare -> dhuti -> tiara
+frame: soare -> diact -> bumps -> frame
+grape: soare -> diact -> bumps -> grape
+brake: soare -> diact -> bumps -> kames -> brake
+brave: soare -> diact -> bumps -> kames -> brave
+grave: soare -> diact -> bumps -> teaze -> grave
+graze: soare -> diact -> bumps -> teaze -> graze
+crate: soare -> diact -> crate
+crane: soare -> diact -> doven -> crane
+crave: soare -> diact -> doven -> crave
+craze: soare -> diact -> doven -> craze
+grade: soare -> diact -> grade
+grate: soare -> diact -> grate
+brace: soare -> diact -> grits -> brace
+grace: soare -> diact -> grits -> grace
+irate: soare -> diact -> irate
+drake: soare -> diact -> kames -> drake
+drape: soare -> diact -> kames -> drape
+trace: soare -> diact -> trace
+trade: soare -> diact -> trade
+breed: soare -> direr -> befog -> breed
+creed: soare -> direr -> befog -> creed
+freed: soare -> direr -> befog -> freed
+greed: soare -> direr -> befog -> greed
+bluer: soare -> direr -> butyl -> bluer
+buyer: soare -> direr -> butyl -> buyer
+cyber: soare -> direr -> butyl -> cyber
+enter: soare -> direr -> butyl -> death -> enter
+meter: soare -> direr -> butyl -> death -> meter
+ember: soare -> direr -> butyl -> ember
+ether: soare -> direr -> butyl -> ether
+flyer: soare -> direr -> butyl -> flyer
+hyper: soare -> direr -> butyl -> hyper
+leper: soare -> direr -> butyl -> ovoli -> leper
+lever: soare -> direr -> butyl -> ovoli -> lever
+queer: soare -> direr -> butyl -> queer
+tuber: soare -> direr -> butyl -> tuber
+ulcer: soare -> direr -> butyl -> ulcer
+upper: soare -> direr -> butyl -> upper
+utter: soare -> direr -> butyl -> utter
+cheer: soare -> direr -> butyl -> wefts -> cheer
+fever: soare -> direr -> butyl -> wefts -> fever
+fewer: soare -> direr -> butyl -> wefts -> fewer
+never: soare -> direr -> butyl -> wefts -> never
+newer: soare -> direr -> butyl -> wefts -> newer
+crier: soare -> direr -> crier
+beret: soare -> direr -> death -> beret
+defer: soare -> direr -> death -> defer
+deter: soare -> direr -> death -> deter
+egret: soare -> direr -> death -> egret
+merit: soare -> direr -> death -> merit
+peril: soare -> direr -> death -> peril
+reedy: soare -> direr -> death -> reedy
+ripen: soare -> direr -> death -> ripen
+rivet: soare -> direr -> death -> rivet
+threw: soare -> direr -> death -> threw
+trend: soare -> direr -> death -> trend
+demur: soare -> direr -> demur
+derby: soare -> direr -> derby
+dried: soare -> direr -> dried
+drier: soare -> direr -> drier
+dryer: soare -> direr -> dryer
+elder: soare -> direr -> fanal -> elder
+refit: soare -> direr -> fanal -> refit
+reign: soare -> direr -> fanal -> reign
+relic: soare -> direr -> fanal -> relic
+remit: soare -> direr -> fanal -> remit
+udder: soare -> direr -> fanal -> udder
+under: soare -> direr -> fanal -> under
+diner: soare -> direr -> fanes -> diner
+diver: soare -> direr -> fanes -> diver
+femur: soare -> direr -> fanes -> femur
+flier: soare -> direr -> fanes -> flier
+infer: soare -> direr -> fanes -> infer
+inner: soare -> direr -> fanes -> inner
+inter: soare -> direr -> fanes -> inter
+lemur: soare -> direr -> fanes -> lemur
+plier: soare -> direr -> fanes -> plier
+fiber: soare -> direr -> flong -> balti -> fiber
+fixer: soare -> direr -> flong -> balti -> fixer
+giver: soare -> direr -> flong -> death -> giver
+tiger: soare -> direr -> flong -> death -> tiger
+filer: soare -> direr -> flong -> filer
+finer: soare -> direr -> flong -> finer
+miner: soare -> direr -> flong -> kames -> miner
+nicer: soare -> direr -> flong -> kames -> nicer
+liner: soare -> direr -> flong -> liner
+liver: soare -> direr -> flong -> liver
+piper: soare -> direr -> flong -> pozzy -> piper
+timer: soare -> direr -> flong -> pozzy -> timer
+viper: soare -> direr -> flong -> pozzy -> viper
+freer: soare -> direr -> geums -> freer
+refer: soare -> direr -> geums -> refer
+ruler: soare -> direr -> geums -> ruler
+truer: soare -> direr -> geums -> truer
+brief: soare -> direr -> grits -> brief
+grief: soare -> direr -> grits -> grief
+idler: soare -> direr -> idler
+nerdy: soare -> direr -> nerdy
+riper: soare -> direr -> ovoli -> riper
+river: soare -> direr -> ovoli -> river
+creek: soare -> direr -> pence -> creek
+creep: soare -> direr -> pence -> creep
+cruel: soare -> direr -> pence -> cruel
+green: soare -> direr -> pence -> green
+greet: soare -> direr -> pence -> greet
+gruel: soare -> direr -> pence -> gruel
+rebel: soare -> direr -> pence -> ovoli -> rebel
+revel: soare -> direr -> pence -> ovoli -> revel
+preen: soare -> direr -> pence -> preen
+renew: soare -> direr -> pence -> renew
+repel: soare -> direr -> pence -> repel
+purer: soare -> direr -> purer
+recur: soare -> direr -> recur
+rerun: soare -> direr -> rerun
+rider: soare -> direr -> rider
+ruder: soare -> direr -> ruder
+berth: soare -> direr -> spect -> berth
+cider: soare -> direr -> spect -> cider
+crept: soare -> direr -> spect -> crept
+cried: soare -> direr -> spect -> cried
+erect: soare -> direr -> spect -> erect
+erupt: soare -> direr -> spect -> erupt
+fried: soare -> direr -> spect -> fried
+jerky: soare -> direr -> spect -> jerky
+mercy: soare -> direr -> spect -> mercy
+perch: soare -> direr -> spect -> perch
+perky: soare -> direr -> spect -> perky
+pried: soare -> direr -> spect -> pried
+rebut: soare -> direr -> spect -> rebut
+recut: soare -> direr -> spect -> recut
+reply: soare -> direr -> spect -> reply
+retch: soare -> direr -> spect -> retch
+tried: soare -> direr -> spect -> tried
+wider: soare -> direr -> spect -> wider
+wreck: soare -> direr -> spect -> wreck
+their: soare -> direr -> their
+cross: soare -> dregs -> cross
+dross: soare -> dregs -> dross
+frost: soare -> dregs -> frost
+gross: soare -> dregs -> gross
+visor: soare -> dregs -> visor
+court: soare -> dynel -> court
+dowry: soare -> dynel -> dowry
+gourd: soare -> dynel -> gourd
+lorry: soare -> dynel -> lorry
+mourn: soare -> dynel -> mourn
+worry: soare -> dynel -> worry
+erase: soare -> erase
+aware: soare -> fable -> aware
+blare: soare -> fable -> blare
+flare: soare -> fable -> flare
+glare: soare -> fable -> glare
+solar: soare -> fanes -> solar
+sonar: soare -> fanes -> sonar
+borne: soare -> faugh -> borne
+force: soare -> faugh -> death -> force
+forte: soare -> faugh -> death -> forte
+forge: soare -> faugh -> forge
+gorge: soare -> faugh -> gorge
+horde: soare -> faugh -> horde
+rogue: soare -> faugh -> rogue
+rouge: soare -> faugh -> rouge
+route: soare -> faugh -> route
+decry: soare -> feted -> decry
+entry: soare -> feted -> entry
+every: soare -> feted -> every
+exert: soare -> feted -> exert
+ferry: soare -> feted -> ferry
+fiery: soare -> feted -> fiery
+inert: soare -> feted -> inert
+berry: soare -> feted -> kames -> berry
+clerk: soare -> feted -> kames -> clerk
+merry: soare -> feted -> kames -> merry
+query: soare -> feted -> kames -> query
+leery: soare -> feted -> leery
+retry: soare -> feted -> retry
+weird: soare -> feted -> weird
+beast: soare -> flyte -> beast
+feast: soare -> flyte -> feast
+leash: soare -> flyte -> leash
+least: soare -> flyte -> least
+yeast: soare -> flyte -> yeast
+acute: soare -> gault -> acute
+algae: soare -> gault -> algae
+bathe: soare -> gault -> bathe
+cable: soare -> gault -> cubed -> cable
+fable: soare -> gault -> cubed -> fable
+ladle: soare -> gault -> cubed -> ladle
+maple: soare -> gault -> cubed -> maple
+abide: soare -> gault -> death -> abide
+anime: soare -> gault -> death -> anime
+badge: soare -> gault -> death -> badge
+lathe: soare -> gault -> death -> lathe
+latte: soare -> gault -> death -> latte
+mange: soare -> gault -> death -> mange
+eagle: soare -> gault -> eagle
+gaffe: soare -> gault -> gaffe
+agile: soare -> gault -> grits -> agile
+angle: soare -> gault -> grits -> angle
+haute: soare -> gault -> haute
+halve: soare -> gault -> hends -> halve
+lance: soare -> gault -> hends -> lance
+valve: soare -> gault -> hends -> valve
+alike: soare -> gault -> kames -> alike
+alive: soare -> gault -> kames -> alive
+mauve: soare -> gault -> mauve
+cache: soare -> gault -> mined -> cache
+dance: soare -> gault -> mined -> dance
+maize: soare -> gault -> mined -> maize
+maybe: soare -> gault -> mined -> maybe
+naive: soare -> gault -> mined -> naive
+payee: soare -> gault -> mined -> payee
+waive: soare -> gault -> mined -> waive
+amble: soare -> gault -> spent -> amble
+ample: soare -> gault -> spent -> ample
+ankle: soare -> gault -> spent -> ankle
+apple: soare -> gault -> spent -> apple
+table: soare -> gault -> table
+gauge: soare -> gault -> teaze -> gauge
+gauze: soare -> gault -> teaze -> gauze
+vague: soare -> gault -> vague
+value: soare -> gault -> value
+metro: soare -> geums -> metro
+overt: soare -> geums -> overt
+retro: soare -> geums -> retro
+crumb: soare -> glint -> burka -> crumb
+crump: soare -> glint -> burka -> crump
+curvy: soare -> glint -> burka -> curvy
+murky: soare -> glint -> burka -> murky
+ruddy: soare -> glint -> burka -> ruddy
+brick: soare -> glint -> calpa -> brick
+crick: soare -> glint -> calpa -> crick
+crimp: soare -> glint -> calpa -> crimp
+prick: soare -> glint -> calpa -> prick
+privy: soare -> glint -> calpa -> privy
+crypt: soare -> glint -> crypt
+burly: soare -> glint -> cundy -> burly
+curly: soare -> glint -> cundy -> curly
+dryly: soare -> glint -> cundy -> dryly
+lurch: soare -> glint -> cundy -> lurch
+wryly: soare -> glint -> cundy -> wryly
+birch: soare -> glint -> death -> birch
+druid: soare -> glint -> death -> druid
+fritz: soare -> glint -> death -> fritz
+lurid: soare -> glint -> death -> lurid
+lyric: soare -> glint -> death -> lyric
+trick: soare -> glint -> death -> trick
+brink: soare -> glint -> deoxy -> brink
+briny: soare -> glint -> deoxy -> briny
+drink: soare -> glint -> deoxy -> drink
+drift: soare -> glint -> drift
+drunk: soare -> glint -> drunk
+drill: soare -> glint -> faded -> drill
+frill: soare -> glint -> faded -> frill
+krill: soare -> glint -> faded -> krill
+fruit: soare -> glint -> fruit
+girly: soare -> glint -> girly
+girth: soare -> glint -> girth
+grill: soare -> glint -> grill
+grimy: soare -> glint -> grimy
+grind: soare -> glint -> grind
+brunt: soare -> glint -> grits -> brunt
+burnt: soare -> glint -> grits -> burnt
+gruff: soare -> glint -> gruff
+grunt: soare -> glint -> grunt
+incur: soare -> glint -> incur
+print: soare -> glint -> print
+right: soare -> glint -> right
+rigid: soare -> glint -> rigid
+rugby: soare -> glint -> rugby
+truly: soare -> glint -> truly
+trunk: soare -> glint -> trunk
+birth: soare -> glint -> whims -> birth
+bring: soare -> glint -> whims -> bring
+dirty: soare -> glint -> whims -> dirty
+mirth: soare -> glint -> whims -> mirth
+thrum: soare -> glint -> whims -> thrum
+truck: soare -> glint -> whims -> truck
+trump: soare -> glint -> whims -> trump
+truth: soare -> glint -> whims -> truth
+wring: soare -> glint -> whims -> wring
+wrung: soare -> glint -> wrung
+abate: soare -> glitz -> abate
+agate: soare -> glitz -> agate
+amaze: soare -> glitz -> amaze
+blaze: soare -> glitz -> blaze
+blade: soare -> glitz -> coomb -> blade
+blame: soare -> glitz -> coomb -> blame
+flame: soare -> glitz -> coomb -> flame
+flake: soare -> glitz -> coomb -> kames -> flake
+plane: soare -> glitz -> coomb -> kames -> plane
+place: soare -> glitz -> coomb -> place
+adage: soare -> glitz -> death -> adage
+agape: soare -> glitz -> death -> agape
+leave: soare -> glitz -> death -> leave
+whale: soare -> glitz -> death -> whale
+glade: soare -> glitz -> glade
+glaze: soare -> glitz -> glaze
+image: soare -> glitz -> image
+inane: soare -> glitz -> inane
+elate: soare -> glitz -> teaze -> elate
+plate: soare -> glitz -> teaze -> plate
+awake: soare -> glitz -> wheep -> awake
+chafe: soare -> glitz -> wheep -> chafe
+evade: soare -> glitz -> wheep -> evade
+heave: soare -> glitz -> wheep -> heave
+knave: soare -> glitz -> wheep -> kames -> knave
+quake: soare -> glitz -> wheep -> kames -> quake
+peace: soare -> glitz -> wheep -> peace
+weave: soare -> glitz -> wheep -> weave
+afire: soare -> grits -> afire
+arise: soare -> grits -> arise
+azure: soare -> grits -> azure
+parse: soare -> grits -> parse
+raise: soare -> grits -> raise
+belie: soare -> guilt -> belie
+bible: soare -> guilt -> bible
+bugle: soare -> guilt -> bugle
+butte: soare -> guilt -> butte
+cutie: soare -> guilt -> cutie
+belle: soare -> guilt -> death -> belle
+binge: soare -> guilt -> death -> binge
+chute: soare -> guilt -> death -> chute
+cycle: soare -> guilt -> death -> cycle
+delve: soare -> guilt -> death -> delve
+deuce: soare -> guilt -> death -> deuce
+dunce: soare -> guilt -> death -> dunce
+etude: soare -> guilt -> death -> etude
+exile: soare -> guilt -> death -> exile
+hedge: soare -> guilt -> death -> hedge
+hinge: soare -> guilt -> death -> hinge
+lithe: soare -> guilt -> death -> lithe
+melee: soare -> guilt -> death -> melee
+midge: soare -> guilt -> death -> midge
+queue: soare -> guilt -> death -> queue
+tilde: soare -> guilt -> death -> tilde
+undue: soare -> guilt -> death -> undue
+venue: soare -> guilt -> death -> venue
+wedge: soare -> guilt -> death -> wedge
+while: soare -> guilt -> death -> while
+elide: soare -> guilt -> elide
+elite: soare -> guilt -> elite
+bulge: soare -> guilt -> fanes -> bulge
+lunge: soare -> guilt -> fanes -> lunge
+budge: soare -> guilt -> fendy -> balti -> budge
+judge: soare -> guilt -> fendy -> balti -> judge
+fudge: soare -> guilt -> fendy -> fudge
+fugue: soare -> guilt -> fendy -> fugue
+nudge: soare -> guilt -> fendy -> nudge
+elude: soare -> guilt -> firms -> elude
+fluke: soare -> guilt -> firms -> fluke
+flume: soare -> guilt -> firms -> flume
+plume: soare -> guilt -> firms -> plume
+flute: soare -> guilt -> flute
+emcee: soare -> guilt -> fohns -> emcee
+femme: soare -> guilt -> fohns -> femme
+fence: soare -> guilt -> fohns -> fence
+hence: soare -> guilt -> fohns -> hence
+pence: soare -> guilt -> fohns -> pence
+penne: soare -> guilt -> fohns -> penne
+genie: soare -> guilt -> genie
+glide: soare -> guilt -> glide
+guide: soare -> guilt -> guide
+guile: soare -> guilt -> guile
+chide: soare -> guilt -> hends -> chide
+chime: soare -> guilt -> hends -> chime
+knife: soare -> guilt -> hends -> knife
+twice: soare -> guilt -> hends -> twice
+twine: soare -> guilt -> hends -> twine
+whine: soare -> guilt -> hends -> whine
+white: soare -> guilt -> hends -> white
+juice: soare -> guilt -> juice
+imbue: soare -> guilt -> kames -> imbue
+pique: soare -> guilt -> kames -> pique
+ledge: soare -> guilt -> ledge
+mince: soare -> guilt -> newie -> mince
+niche: soare -> guilt -> newie -> niche
+niece: soare -> guilt -> newie -> niece
+piece: soare -> guilt -> newie -> piece
+pixie: soare -> guilt -> newie -> pixie
+wince: soare -> guilt -> newie -> wince
+quite: soare -> guilt -> quite
+bilge: soare -> guilt -> teaze -> bilge
+liege: soare -> guilt -> teaze -> liege
+tepee: soare -> guilt -> teaze -> tepee
+theme: soare -> guilt -> teaze -> theme
+thyme: soare -> guilt -> teaze -> thyme
+tithe: soare -> guilt -> tithe
+title: soare -> guilt -> title
+tulle: soare -> guilt -> tulle
+uncle: soare -> guilt -> uncle
+unite: soare -> guilt -> unite
+untie: soare -> guilt -> untie
+utile: soare -> guilt -> utile
+dusty: soare -> hists -> almug -> dusty
+gusty: soare -> hists -> almug -> gusty
+lusty: soare -> hists -> almug -> lusty
+musty: soare -> hists -> almug -> musty
+bliss: soare -> hists -> bliss
+dusky: soare -> hists -> death -> dusky
+midst: soare -> hists -> death -> midst
+musky: soare -> hists -> death -> musky
+tipsy: soare -> hists -> death -> tipsy
+fishy: soare -> hists -> fishy
+blush: soare -> hists -> frabs -> blush
+flush: soare -> hists -> frabs -> flush
+plush: soare -> hists -> frabs -> plush
+fussy: soare -> hists -> fussy
+gipsy: soare -> hists -> gipsy
+gypsy: soare -> hists -> gypsy
+humus: soare -> hists -> humus
+husky: soare -> hists -> husky
+hussy: soare -> hists -> hussy
+ficus: soare -> hists -> kames -> ficus
+lupus: soare -> hists -> kames -> lupus
+minus: soare -> hists -> kames -> minus
+mucus: soare -> hists -> kames -> mucus
+missy: soare -> hists -> missy
+music: soare -> hists -> music
+bushy: soare -> hists -> thump -> bushy
+mushy: soare -> hists -> thump -> mushy
+pushy: soare -> hists -> thump -> pushy
+twist: soare -> hists -> twist
+using: soare -> hists -> using
+visit: soare -> hists -> visit
+whisk: soare -> hists -> whisk
+wispy: soare -> hists -> wispy
+bonus: soare -> jumby -> bonus
+boost: soare -> jumby -> boost
+bosom: soare -> jumby -> bosom
+bossy: soare -> jumby -> bossy
+focus: soare -> jumby -> fanes -> focus
+locus: soare -> jumby -> fanes -> locus
+joist: soare -> jumby -> joist
+joust: soare -> jumby -> joust
+lousy: soare -> jumby -> lousy
+moist: soare -> jumby -> moist
+mossy: soare -> jumby -> mossy
+noisy: soare -> jumby -> noisy
+foist: soare -> jumby -> whims -> foist
+hoist: soare -> jumby -> whims -> hoist
+posit: soare -> jumby -> whims -> posit
+ascot: soare -> kames -> ascot
+cameo: soare -> kames -> cameo
+lasso: soare -> kames -> lasso
+mason: soare -> kames -> mason
+nosey: soare -> kames -> nosey
+oaken: soare -> kames -> oaken
+ocean: soare -> kames -> ocean
+omega: soare -> kames -> omega
+poesy: soare -> kames -> poesy
+scarf: soare -> kempt -> cundy -> scarf
+scary: soare -> kempt -> cundy -> scary
+shard: soare -> kempt -> cundy -> shard
+snarl: soare -> kempt -> cundy -> snarl
+shark: soare -> kempt -> shark
+sharp: soare -> kempt -> sharp
+smart: soare -> kempt -> smart
+spark: soare -> kempt -> spark
+stark: soare -> kempt -> stark
+start: soare -> kempt -> start
+swarm: soare -> kempt -> swarm
+scone: soare -> knelt -> death -> scone
+scope: soare -> knelt -> death -> scope
+shone: soare -> knelt -> death -> shone
+shove: soare -> knelt -> death -> shove
+smote: soare -> knelt -> death -> smote
+stead: soare -> knelt -> death -> stead
+steam: soare -> knelt -> death -> steam
+stove: soare -> knelt -> death -> stove
+smoke: soare -> knelt -> kames -> smoke
+spoke: soare -> knelt -> kames -> spoke
+sedan: soare -> knelt -> sedan
+sepia: soare -> knelt -> sepia
+slope: soare -> knelt -> slope
+sneak: soare -> knelt -> sneak
+speak: soare -> knelt -> speak
+steak: soare -> knelt -> steak
+steal: soare -> knelt -> steal
+stoke: soare -> knelt -> stoke
+stole: soare -> knelt -> stole
+stone: soare -> knelt -> stone
+sweat: soare -> knelt -> sweat
+roost: soare -> koros -> roost
+torso: soare -> koros -> torso
+torus: soare -> koros -> torus
+worst: soare -> koros -> worst
+beard: soare -> lathy -> death -> beard
+rearm: soare -> lathy -> death -> rearm
+heard: soare -> lathy -> heard
+heart: soare -> lathy -> heart
+learn: soare -> lathy -> learn
+pearl: soare -> lathy -> pearl
+teary: soare -> lathy -> teary
+weary: soare -> lathy -> weary
+yearn: soare -> lathy -> yearn
+below: soare -> lento -> below
+cello: soare -> lento -> death -> cello
+epoch: soare -> lento -> death -> epoch
+epoxy: soare -> lento -> death -> epoxy
+hello: soare -> lento -> death -> hello
+decoy: soare -> lento -> decoy
+demon: soare -> lento -> demon
+ebony: soare -> lento -> divot -> ebony
+endow: soare -> lento -> divot -> endow
+enjoy: soare -> lento -> divot -> enjoy
+envoy: soare -> lento -> divot -> envoy
+elbow: soare -> lento -> elbow
+extol: soare -> lento -> extol
+gecko: soare -> lento -> gecko
+felon: soare -> lento -> kames -> felon
+melon: soare -> lento -> kames -> melon
+lemon: soare -> lento -> lemon
+depot: soare -> lento -> motor -> depot
+detox: soare -> lento -> motor -> detox
+octet: soare -> lento -> octet
+often: soare -> lento -> often
+olden: soare -> lento -> olden
+tempo: soare -> lento -> tempo
+venom: soare -> lento -> venom
+video: soare -> lento -> video
+scree: soare -> leuco -> scree
+serve: soare -> leuco -> serve
+spree: soare -> leuco -> spree
+surge: soare -> leuco -> surge
+comma: soare -> liman -> comma
+cocoa: soare -> liman -> death -> cocoa
+dogma: soare -> liman -> death -> dogma
+mocha: soare -> liman -> death -> mocha
+today: soare -> liman -> death -> today
+tonal: soare -> liman -> death -> tonal
+topaz: soare -> liman -> death -> topaz
+vodka: soare -> liman -> death -> vodka
+zonal: soare -> liman -> death -> zonal
+focal: soare -> liman -> facer -> focal
+total: soare -> liman -> facer -> total
+vocal: soare -> liman -> facer -> vocal
+gonad: soare -> liman -> gonad
+modal: soare -> liman -> modal
+nomad: soare -> liman -> nomad
+polka: soare -> liman -> polka
+local: soare -> liman -> spect -> local
+loyal: soare -> liman -> spect -> loyal
+tonga: soare -> liman -> tonga
+voila: soare -> liman -> voila
+woman: soare -> liman -> woman
+chord: soare -> linch -> chord
+fjord: soare -> linch -> fjord
+glory: soare -> linch -> glory
+hydro: soare -> linch -> hydro
+intro: soare -> linch -> intro
+ivory: soare -> linch -> ivory
+micro: soare -> linch -> micro
+thorn: soare -> linch -> thorn
+abyss: soare -> linty -> abyss
+angst: soare -> linty -> angst
+basil: soare -> linty -> basil
+basin: soare -> linty -> basin
+daisy: soare -> linty -> daisy
+amiss: soare -> linty -> kames -> amiss
+assay: soare -> linty -> kames -> assay
+basal: soare -> linty -> kames -> basal
+basic: soare -> linty -> kames -> basic
+basis: soare -> linty -> kames -> basis
+gassy: soare -> linty -> kames -> gassy
+usual: soare -> linty -> kames -> usual
+nasal: soare -> linty -> nasal
+nasty: soare -> linty -> nasty
+palsy: soare -> linty -> palsy
+pansy: soare -> linty -> pansy
+pasta: soare -> linty -> pasta
+patsy: soare -> linty -> patsy
+hasty: soare -> linty -> tapis -> hasty
+pasty: soare -> linty -> tapis -> pasty
+tasty: soare -> linty -> tapis -> tasty
+vista: soare -> linty -> vista
+waist: soare -> linty -> waist
+apron: soare -> maron -> apron
+armor: soare -> maron -> armor
+aroma: soare -> maron -> aroma
+arrow: soare -> maron -> arrow
+baron: soare -> maron -> baron
+cargo: soare -> maron -> cargo
+abhor: soare -> maron -> death -> abhor
+actor: soare -> maron -> death -> actor
+arbor: soare -> maron -> death -> arbor
+ardor: soare -> maron -> death -> ardor
+broad: soare -> maron -> death -> broad
+carol: soare -> maron -> death -> carol
+croak: soare -> maron -> death -> croak
+radio: soare -> maron -> death -> radio
+ratio: soare -> maron -> death -> ratio
+tarot: soare -> maron -> death -> tarot
+groan: soare -> maron -> grits -> groan
+organ: soare -> maron -> grits -> organ
+manor: soare -> maron -> manor
+major: soare -> maron -> pozzy -> major
+mayor: soare -> maron -> pozzy -> mayor
+rayon: soare -> maron -> rayon
+favor: soare -> maron -> rolfs -> favor
+labor: soare -> maron -> rolfs -> labor
+razor: soare -> maron -> rolfs -> razor
+valor: soare -> maron -> rolfs -> valor
+vapor: soare -> maron -> rolfs -> vapor
+artsy: soare -> mases -> artsy
+harsh: soare -> mases -> harsh
+marsh: soare -> mases -> marsh
+raspy: soare -> mases -> raspy
+comet: soare -> meynt -> comet
+covet: soare -> meynt -> covet
+boney: soare -> meynt -> death -> boney
+honey: soare -> meynt -> death -> honey
+hotel: soare -> meynt -> death -> hotel
+towel: soare -> meynt -> death -> towel
+bowel: soare -> meynt -> doven -> bowel
+dowel: soare -> meynt -> doven -> dowel
+hovel: soare -> meynt -> doven -> hovel
+vowel: soare -> meynt -> doven -> vowel
+golem: soare -> meynt -> golem
+money: soare -> meynt -> money
+motel: soare -> meynt -> motel
+model: soare -> meynt -> ovoli -> model
+modem: soare -> meynt -> ovoli -> modem
+token: soare -> meynt -> token
+totem: soare -> meynt -> totem
+covey: soare -> meynt -> trode -> covey
+dopey: soare -> meynt -> trode -> dopey
+gooey: soare -> meynt -> trode -> gooey
+coven: soare -> meynt -> wolve -> coven
+dozen: soare -> meynt -> wolve -> dozen
+novel: soare -> meynt -> wolve -> novel
+woken: soare -> meynt -> wolve -> woken
+woven: soare -> meynt -> wolve -> woven
+women: soare -> meynt -> women
+cairn: soare -> micht -> cairn
+carry: soare -> micht -> carry
+dairy: soare -> micht -> death -> dairy
+fairy: soare -> micht -> death -> fairy
+hairy: soare -> micht -> hairy
+harry: soare -> micht -> harry
+angry: soare -> micht -> kames -> angry
+parry: soare -> micht -> kames -> parry
+marry: soare -> micht -> marry
+ultra: soare -> micht -> ultra
+umbra: soare -> micht -> umbra
+screw: soare -> newie -> death -> screw
+sheer: soare -> newie -> death -> sheer
+shrew: soare -> newie -> death -> shrew
+steer: soare -> newie -> death -> steer
+serif: soare -> newie -> serif
+serum: soare -> newie -> serum
+sever: soare -> newie -> sever
+sewer: soare -> newie -> sewer
+siren: soare -> newie -> siren
+skier: soare -> newie -> skier
+sneer: soare -> newie -> sneer
+super: soare -> newie -> spent -> super
+surer: soare -> newie -> spent -> surer
+stork: soare -> nicht -> kames -> stork
+storm: soare -> nicht -> kames -> storm
+story: soare -> nicht -> kames -> story
+scorn: soare -> nicht -> scorn
+shorn: soare -> nicht -> shorn
+short: soare -> nicht -> short
+snort: soare -> nicht -> snort
+sport: soare -> nicht -> sport
+sword: soare -> nicht -> sword
+sworn: soare -> nicht -> sworn
+opera: soare -> opera
+ovary: soare -> ovary
+ovate: soare -> ovate
+loser: soare -> ovoli -> loser
+poser: soare -> ovoli -> poser
+salon: soare -> ovoli -> salon
+salvo: soare -> ovoli -> salvo
+savoy: soare -> ovoli -> savoy
+shoal: soare -> ovoli -> shoal
+safer: soare -> pashm -> fanes -> safer
+saner: soare -> pashm -> fanes -> saner
+shear: soare -> pashm -> shear
+smear: soare -> pashm -> smear
+spear: soare -> pashm -> spear
+swear: soare -> pashm -> swear
+piano: soare -> piano
+copse: soare -> pilum -> copse
+goose: soare -> pilum -> grits -> goose
+noose: soare -> pilum -> grits -> noose
+house: soare -> pilum -> house
+loose: soare -> pilum -> loose
+louse: soare -> pilum -> louse
+moose: soare -> pilum -> moose
+mouse: soare -> pilum -> mouse
+noise: soare -> pilum -> noise
+poise: soare -> pilum -> poise
+posse: soare -> pilum -> posse
+snore: soare -> pitch -> fanes -> snore
+swore: soare -> pitch -> fanes -> swore
+scare: soare -> pitch -> scare
+score: soare -> pitch -> score
+share: soare -> pitch -> share
+shore: soare -> pitch -> shore
+snare: soare -> pitch -> snare
+spare: soare -> pitch -> spare
+spore: soare -> pitch -> spore
+stare: soare -> pitch -> stare
+store: soare -> pitch -> store
+slice: soare -> pling -> cymes -> slice
+slide: soare -> pling -> cymes -> slide
+slime: soare -> pling -> cymes -> slime
+shine: soare -> pling -> death -> shine
+swine: soare -> pling -> death -> swine
+seize: soare -> pling -> geums -> seize
+smite: soare -> pling -> geums -> smite
+suite: soare -> pling -> geums -> suite
+scene: soare -> pling -> scene
+segue: soare -> pling -> segue
+sense: soare -> pling -> sense
+siege: soare -> pling -> siege
+sieve: soare -> pling -> sieve
+since: soare -> pling -> since
+singe: soare -> pling -> singe
+smile: soare -> pling -> smile
+snide: soare -> pling -> snide
+snipe: soare -> pling -> snipe
+spice: soare -> pling -> spect -> spice
+spike: soare -> pling -> spect -> spike
+spite: soare -> pling -> spect -> spite
+spine: soare -> pling -> spine
+style: soare -> pling -> style
+bloke: soare -> plink -> bloke
+clone: soare -> plink -> clone
+biome: soare -> plink -> death -> biome
+choke: soare -> plink -> death -> choke
+diode: soare -> plink -> death -> diode
+evoke: soare -> plink -> death -> evoke
+elope: soare -> plink -> elope
+clove: soare -> plink -> giber -> clove
+globe: soare -> plink -> giber -> globe
+glove: soare -> plink -> giber -> glove
+gnome: soare -> plink -> kames -> gnome
+ounce: soare -> plink -> kames -> ounce
+olive: soare -> plink -> olive
+opine: soare -> plink -> opine
+ovine: soare -> plink -> ovine
+oxide: soare -> plink -> oxide
+ozone: soare -> plink -> ozone
+phone: soare -> plink -> phone
+quote: soare -> plink -> quote
+whole: soare -> plink -> whole
+broke: soare -> pownd -> befit -> broke
+froze: soare -> pownd -> befit -> froze
+grove: soare -> pownd -> befit -> grove
+trove: soare -> pownd -> befit -> trove
+crone: soare -> pownd -> crone
+drove: soare -> pownd -> death -> drove
+erode: soare -> pownd -> death -> erode
+grope: soare -> pownd -> death -> grope
+trope: soare -> pownd -> death -> trope
+drone: soare -> pownd -> drone
+probe: soare -> pownd -> ovoli -> probe
+prove: soare -> pownd -> ovoli -> prove
+prone: soare -> pownd -> prone
+wrote: soare -> pownd -> wrote
+prose: soare -> prose
+creme: soare -> pudic -> creme
+crepe: soare -> pudic -> crepe
+crude: soare -> pudic -> crude
+curve: soare -> pudic -> curve
+brute: soare -> pudic -> death -> brute
+crime: soare -> pudic -> death -> crime
+gripe: soare -> pudic -> death -> gripe
+revue: soare -> pudic -> death -> revue
+trice: soare -> pudic -> death -> trice
+tripe: soare -> pudic -> death -> tripe
+eerie: soare -> pudic -> eerie
+prime: soare -> pudic -> kames -> prime
+prize: soare -> pudic -> kames -> prize
+puree: soare -> pudic -> kames -> puree
+purge: soare -> pudic -> kames -> purge
+price: soare -> pudic -> price
+pride: soare -> pudic -> pride
+prude: soare -> pudic -> prude
+prune: soare -> pudic -> prune
+ridge: soare -> pudic -> ridge
+rupee: soare -> pudic -> rupee
+bribe: soare -> pudic -> trabs -> bribe
+brine: soare -> pudic -> trabs -> brine
+grime: soare -> pudic -> trabs -> grime
+rifle: soare -> pudic -> trabs -> rifle
+tribe: soare -> pudic -> trabs -> tribe
+trite: soare -> pudic -> trabs -> trite
+write: soare -> pudic -> trabs -> write
+bride: soare -> pudic -> trode -> bride
+dirge: soare -> pudic -> trode -> dirge
+drive: soare -> pudic -> trode -> drive
+truce: soare -> pudic -> truce
+urine: soare -> pudic -> urine
+merge: soare -> pudic -> venge -> merge
+nerve: soare -> pudic -> venge -> nerve
+rhyme: soare -> pudic -> venge -> rhyme
+three: soare -> pudic -> venge -> three
+verge: soare -> pudic -> venge -> verge
+verve: soare -> pudic -> venge -> verve
+curse: soare -> punts -> curse
+dense: soare -> punts -> dense
+ensue: soare -> punts -> ensue
+geese: soare -> punts -> geese
+guise: soare -> punts -> guise
+issue: soare -> punts -> issue
+nurse: soare -> punts -> nurse
+pulse: soare -> punts -> pulse
+purse: soare -> punts -> purse
+reuse: soare -> punts -> reuse
+rinse: soare -> punts -> rinse
+tense: soare -> punts -> tense
+terse: soare -> punts -> terse
+these: soare -> punts -> these
+verse: soare -> punts -> verse
+satyr: soare -> purty -> satyr
+scram: soare -> purty -> scram
+scrap: soare -> purty -> scrap
+spray: soare -> purty -> spray
+strap: soare -> purty -> strap
+straw: soare -> purty -> straw
+stray: soare -> purty -> stray
+sugar: soare -> purty -> sugar
+cress: soare -> richt -> cress
+crest: soare -> richt -> crest
+dress: soare -> richt -> death -> dress
+fresh: soare -> richt -> death -> fresh
+press: soare -> richt -> death -> press
+usher: soare -> richt -> death -> usher
+ester: soare -> richt -> ester
+miser: soare -> richt -> kames -> miser
+wiser: soare -> richt -> kames -> wiser
+risen: soare -> richt -> motor -> risen
+riser: soare -> richt -> motor -> riser
+rebus: soare -> richt -> rebus
+reset: soare -> richt -> reset
+resin: soare -> richt -> resin
+wrest: soare -> richt -> wrest
+array: soare -> riyal -> array
+rabbi: soare -> riyal -> balti -> rabbi
+rabid: soare -> riyal -> balti -> rabid
+radii: soare -> riyal -> balti -> radii
+rapid: soare -> riyal -> balti -> rapid
+circa: soare -> riyal -> circa
+altar: soare -> riyal -> death -> altar
+carat: soare -> riyal -> death -> carat
+lunar: soare -> riyal -> death -> lunar
+radar: soare -> riyal -> death -> radar
+rajah: soare -> riyal -> death -> rajah
+ranch: soare -> riyal -> death -> ranch
+randy: soare -> riyal -> death -> randy
+ratty: soare -> riyal -> death -> ratty
+rumba: soare -> riyal -> death -> rumba
+urban: soare -> riyal -> death -> urban
+briar: soare -> riyal -> faded -> briar
+friar: soare -> riyal -> faded -> friar
+triad: soare -> riyal -> faded -> triad
+cigar: soare -> riyal -> grits -> cigar
+vicar: soare -> riyal -> grits -> vicar
+augur: soare -> riyal -> kames -> augur
+karma: soare -> riyal -> kames -> karma
+march: soare -> riyal -> kames -> march
+parka: soare -> riyal -> kames -> parka
+larva: soare -> riyal -> larva
+acrid: soare -> riyal -> motor -> acrid
+nadir: soare -> riyal -> motor -> nadir
+tapir: soare -> riyal -> motor -> tapir
+mural: soare -> riyal -> mural
+rainy: soare -> riyal -> rainy
+rally: soare -> riyal -> rally
+ralph: soare -> riyal -> ralph
+rival: soare -> riyal -> rival
+rural: soare -> riyal -> rural
+hardy: soare -> riyal -> tapis -> hardy
+harpy: soare -> riyal -> tapis -> harpy
+party: soare -> riyal -> tapis -> party
+tardy: soare -> riyal -> tapis -> tardy
+warty: soare -> riyal -> tapis -> warty
+trial: soare -> riyal -> trial
+viral: soare -> riyal -> viral
+roach: soare -> roach
+roast: soare -> roast
+boxer: soare -> rowth -> block -> boxer
+foyer: soare -> rowth -> block -> geums -> foyer
+goner: soare -> rowth -> block -> geums -> goner
+mover: soare -> rowth -> block -> geums -> mover
+lover: soare -> rowth -> block -> lover
+corer: soare -> rowth -> block -> ovoli -> corer
+cover: soare -> rowth -> block -> ovoli -> cover
+joker: soare -> rowth -> block -> spent -> joker
+poker: soare -> rowth -> block -> spent -> poker
+cower: soare -> rowth -> celom -> cower
+lower: soare -> rowth -> celom -> lower
+mower: soare -> rowth -> celom -> mower
+power: soare -> rowth -> celom -> power
+homer: soare -> rowth -> kames -> homer
+hover: soare -> rowth -> kames -> hover
+rodeo: soare -> rowth -> ovoli -> rodeo
+roger: soare -> rowth -> ovoli -> roger
+rover: soare -> rowth -> ovoli -> rover
+rower: soare -> rowth -> rower
+tower: soare -> rowth -> tower
+voter: soare -> rowth -> voter
+wooer: soare -> rowth -> wooer
+savor: soare -> savor
+scour: soare -> scour
+soapy: soare -> soapy
+solve: soare -> solve
+sorry: soare -> sorry
+salve: soare -> spect -> salve
+sauce: soare -> spect -> sauce
+saute: soare -> spect -> saute
+stair: soare -> stair
+boast: soare -> tabus -> boast
+coast: soare -> tabus -> coast
+toast: soare -> tabus -> toast
+after: soare -> talar -> after
+alter: soare -> talar -> alter
+arena: soare -> talar -> arena
+bread: soare -> talar -> cebid -> bread
+break: soare -> talar -> cebid -> break
+dread: soare -> talar -> cebid -> dread
+dream: soare -> talar -> cebid -> dream
+freak: soare -> talar -> cebid -> fanes -> freak
+wreak: soare -> talar -> cebid -> fanes -> wreak
+creak: soare -> talar -> cebid -> kames -> creak
+cream: soare -> talar -> cebid -> kames -> cream
+recap: soare -> talar -> cebid -> recap
+rehab: soare -> talar -> cebid -> rehab
+repay: soare -> talar -> cebid -> repay
+clear: soare -> talar -> clear
+cedar: soare -> talar -> death -> cedar
+debar: soare -> talar -> death -> debar
+rebar: soare -> talar -> death -> rebar
+tread: soare -> talar -> death -> tread
+treat: soare -> talar -> death -> treat
+early: soare -> talar -> early
+earth: soare -> talar -> earth
+cater: soare -> talar -> eches -> cater
+eater: soare -> talar -> eches -> eater
+hater: soare -> talar -> eches -> hater
+water: soare -> talar -> eches -> water
+feral: soare -> talar -> fanes -> feral
+regal: soare -> talar -> fanes -> regal
+renal: soare -> talar -> fanes -> renal
+great: soare -> talar -> great
+aider: soare -> talar -> grits -> aider
+amber: soare -> talar -> grits -> amber
+anger: soare -> talar -> grits -> anger
+lager: soare -> talar -> grits -> lager
+layer: soare -> talar -> grits -> layer
+harem: soare -> talar -> kames -> harem
+ramen: soare -> talar -> kames -> ramen
+raven: soare -> talar -> kames -> raven
+taker: soare -> talar -> kames -> taker
+tamer: soare -> talar -> kames -> tamer
+taper: soare -> talar -> kames -> taper
+later: soare -> talar -> later
+caper: soare -> talar -> pigmy -> caper
+baker: soare -> talar -> pigmy -> corky -> baker
+wafer: soare -> talar -> pigmy -> corky -> fanes -> wafer
+waver: soare -> talar -> pigmy -> corky -> fanes -> waver
+racer: soare -> talar -> pigmy -> corky -> racer
+rarer: soare -> talar -> pigmy -> corky -> rarer
+gamer: soare -> talar -> pigmy -> gamer
+gayer: soare -> talar -> pigmy -> gayer
+gazer: soare -> talar -> pigmy -> gazer
+maker: soare -> talar -> pigmy -> maker
+payer: soare -> talar -> pigmy -> payer
+paper: soare -> talar -> pigmy -> shrow -> paper
+parer: soare -> talar -> pigmy -> shrow -> parer
+eager: soare -> talar -> pigmy -> teaze -> eager
+wager: soare -> talar -> pigmy -> teaze -> wager
+relax: soare -> talar -> pozzy -> relax
+relay: soare -> talar -> pozzy -> relay
+baler: soare -> talar -> spent -> baler
+paler: soare -> talar -> spent -> paler
+ashen: soare -> tawai -> ashen
+askew: soare -> tawai -> askew
+asset: soare -> tawai -> asset
+easel: soare -> tawai -> easel
+essay: soare -> tawai -> essay
+coach: soare -> telly -> coach
+foamy: soare -> telly -> foamy
+koala: soare -> telly -> koala
+loamy: soare -> telly -> loamy
+loath: soare -> telly -> loath
+bless: soare -> teugh -> bless
+bused: soare -> teugh -> bused
+chess: soare -> teugh -> chess
+chest: soare -> teugh -> chest
+beset: soare -> teugh -> death -> beset
+zesty: soare -> teugh -> death -> zesty
+quest: soare -> teugh -> fanes -> quest
+unset: soare -> teugh -> fanes -> unset
+upset: soare -> teugh -> fanes -> upset
+fetus: soare -> teugh -> fetus
+flesh: soare -> teugh -> flesh
+guess: soare -> teugh -> guess
+guest: soare -> teugh -> guest
+heist: soare -> teugh -> heist
+exist: soare -> teugh -> kames -> exist
+islet: soare -> teugh -> kames -> islet
+pesky: soare -> teugh -> pesky
+testy: soare -> teugh -> testy
+welsh: soare -> teugh -> welsh
+scald: soare -> thilk -> cundy -> scald
+scalp: soare -> thilk -> cundy -> scalp
+scaly: soare -> thilk -> cundy -> scaly
+small: soare -> thilk -> cundy -> small
+sight: soare -> thilk -> death -> sight
+sixth: soare -> thilk -> death -> sixth
+skate: soare -> thilk -> death -> skate
+staid: soare -> thilk -> death -> staid
+stain: soare -> thilk -> death -> stain
+stake: soare -> thilk -> death -> stake
+stash: soare -> thilk -> death -> stash
+swath: soare -> thilk -> death -> swath
+slain: soare -> thilk -> doven -> slain
+snail: soare -> thilk -> doven -> snail
+shade: soare -> thilk -> dumpy -> shade
+shame: soare -> thilk -> dumpy -> shame
+shape: soare -> thilk -> dumpy -> shape
+shave: soare -> thilk -> dumpy -> shave
+shack: soare -> thilk -> fanes -> shack
+shank: soare -> thilk -> fanes -> shank
+slick: soare -> thilk -> fanes -> slick
+slink: soare -> thilk -> fanes -> slink
+stack: soare -> thilk -> fanes -> stack
+stank: soare -> thilk -> fanes -> stank
+stick: soare -> thilk -> fanes -> stick
+stink: soare -> thilk -> fanes -> stink
+stuck: soare -> thilk -> fanes -> stuck
+stunk: soare -> thilk -> fanes -> stunk
+sissy: soare -> thilk -> geums -> sissy
+slyly: soare -> thilk -> geums -> slyly
+snuff: soare -> thilk -> geums -> snuff
+squib: soare -> thilk -> geums -> squib
+sully: soare -> thilk -> geums -> sully
+sunny: soare -> thilk -> geums -> sunny
+swung: soare -> thilk -> geums -> swung
+stage: soare -> thilk -> grits -> stage
+state: soare -> thilk -> grits -> state
+stave: soare -> thilk -> grits -> stave
+slimy: soare -> thilk -> kames -> slimy
+sling: soare -> thilk -> kames -> sling
+slump: soare -> thilk -> kames -> slump
+slung: soare -> thilk -> kames -> slung
+smash: soare -> thilk -> kames -> smash
+swash: soare -> thilk -> kames -> swash
+study: soare -> thilk -> pongy -> study
+stuff: soare -> thilk -> pongy -> stuff
+stump: soare -> thilk -> pongy -> stump
+stung: soare -> thilk -> pongy -> stung
+stunt: soare -> thilk -> pongy -> stunt
+scale: soare -> thilk -> scale
+shady: soare -> thilk -> shady
+shaft: soare -> thilk -> shaft
+shake: soare -> thilk -> shake
+shaky: soare -> thilk -> shaky
+shale: soare -> thilk -> shale
+shall: soare -> thilk -> shall
+shalt: soare -> thilk -> shalt
+shawl: soare -> thilk -> shawl
+shift: soare -> thilk -> shift
+shiny: soare -> thilk -> shiny
+shuck: soare -> thilk -> shuck
+shunt: soare -> thilk -> shunt
+shush: soare -> thilk -> shush
+shyly: soare -> thilk -> shyly
+silky: soare -> thilk -> silky
+silly: soare -> thilk -> silly
+sixty: soare -> thilk -> sixty
+skill: soare -> thilk -> skill
+skulk: soare -> thilk -> skulk
+skull: soare -> thilk -> skull
+slack: soare -> thilk -> slack
+slang: soare -> thilk -> slang
+slant: soare -> thilk -> slant
+slash: soare -> thilk -> slash
+slate: soare -> thilk -> slate
+slave: soare -> thilk -> slave
+slunk: soare -> thilk -> slunk
+slush: soare -> thilk -> slush
+smith: soare -> thilk -> smith
+snake: soare -> thilk -> snake
+snaky: soare -> thilk -> snaky
+space: soare -> thilk -> spect -> space
+spade: soare -> thilk -> spect -> spade
+suave: soare -> thilk -> spect -> suave
+scant: soare -> thilk -> spent -> scant
+skiff: soare -> thilk -> spent -> skiff
+skimp: soare -> thilk -> spent -> skimp
+skunk: soare -> thilk -> spent -> skunk
+smack: soare -> thilk -> spent -> smack
+snack: soare -> thilk -> spent -> snack
+snuck: soare -> thilk -> spent -> snuck
+spank: soare -> thilk -> spent -> spank
+spiky: soare -> thilk -> spent -> spiky
+spill: soare -> thilk -> spent -> spill
+spilt: soare -> thilk -> spent -> spilt
+spunk: soare -> thilk -> spent -> spunk
+staff: soare -> thilk -> spent -> staff
+stamp: soare -> thilk -> spent -> stamp
+stand: soare -> thilk -> spent -> stand
+stiff: soare -> thilk -> spent -> stiff
+still: soare -> thilk -> spent -> still
+stilt: soare -> thilk -> spent -> stilt
+sting: soare -> thilk -> spent -> sting
+stint: soare -> thilk -> spent -> stint
+swift: soare -> thilk -> spent -> swift
+swill: soare -> thilk -> spent -> swill
+split: soare -> thilk -> split
+stale: soare -> thilk -> stale
+stalk: soare -> thilk -> stalk
+stall: soare -> thilk -> stall
+sulky: soare -> thilk -> sulky
+sushi: soare -> thilk -> sushi
+swami: soare -> thilk -> swami
+swish: soare -> thilk -> swish
+sniff: soare -> thilk -> swung -> sniff
+spicy: soare -> thilk -> swung -> spicy
+spiny: soare -> thilk -> swung -> spiny
+suing: soare -> thilk -> swung -> suing
+swing: soare -> thilk -> swung -> swing
+scamp: soare -> thilk -> whims -> scamp
+spasm: soare -> thilk -> whims -> spasm
+spawn: soare -> thilk -> whims -> spawn
+swamp: soare -> thilk -> whims -> swamp
+amuse: soare -> thump -> amuse
+baste: soare -> thump -> claws -> baste
+caste: soare -> thump -> claws -> caste
+waste: soare -> thump -> claws -> waste
+aisle: soare -> thump -> grits -> aisle
+aside: soare -> thump -> grits -> aside
+false: soare -> thump -> grits -> false
+haste: soare -> thump -> haste
+abuse: soare -> thump -> kames -> abuse
+cause: soare -> thump -> kames -> cause
+lapse: soare -> thump -> lapse
+masse: soare -> thump -> masse
+paste: soare -> thump -> paste
+pause: soare -> thump -> pause
+shirk: soare -> thump -> shirk
+shirt: soare -> thump -> shirt
+skirt: soare -> thump -> skirt
+slurp: soare -> thump -> slurp
+smirk: soare -> thump -> smirk
+spurn: soare -> thump -> spurn
+spurt: soare -> thump -> spurt
+swirl: soare -> thump -> swirl
+taste: soare -> thump -> taste
+blurb: soare -> tichy -> blurb
+blurt: soare -> tichy -> blurt
+chirp: soare -> tichy -> chirp
+churn: soare -> tichy -> churn
+curry: soare -> tichy -> curry
+flirt: soare -> tichy -> flirt
+furry: soare -> tichy -> furry
+hurry: soare -> tichy -> hurry
+myrrh: soare -> tichy -> myrrh
+quirk: soare -> tichy -> quirk
+third: soare -> tichy -> third
+twirl: soare -> tichy -> twirl
+whirl: soare -> tichy -> whirl
+brush: soare -> ticky -> brush
+burst: soare -> ticky -> burst
+crisp: soare -> ticky -> crisp
+crush: soare -> ticky -> crush
+crust: soare -> ticky -> crust
+brisk: soare -> ticky -> fanes -> brisk
+frisk: soare -> ticky -> fanes -> frisk
+first: soare -> ticky -> first
+truss: soare -> ticky -> kames -> truss
+trust: soare -> ticky -> kames -> trust
+prism: soare -> ticky -> prism
+risky: soare -> ticky -> risky
+rusty: soare -> ticky -> rusty
+tryst: soare -> ticky -> tryst
+virus: soare -> ticky -> virus
+wrist: soare -> ticky -> wrist
+alert: soare -> total -> alert
+avert: soare -> total -> avert
+extra: soare -> total -> extra
+terra: soare -> total -> terra
+zebra: soare -> total -> zebra
+credo: soare -> trued -> credo
+other: soare -> trued -> death -> other
+otter: soare -> trued -> death -> otter
+decor: soare -> trued -> decor
+error: soare -> trued -> error
+offer: soare -> trued -> fanes -> offer
+owner: soare -> trued -> fanes -> owner
+heron: soare -> trued -> heron
+order: soare -> trued -> order
+outer: soare -> trued -> outer
+odder: soare -> trued -> ovoli -> odder
+older: soare -> trued -> ovoli -> older
+tenor: soare -> trued -> tenor
+usurp: soare -> usurp
+verso: soare -> verso
+horse: soare -> whims -> horse
+rouse: soare -> whims -> rouse
+sober: soare -> whims -> sober
+sower: soare -> whims -> sower
+worse: soare -> whims -> worse
+aorta: soare -> xylem -> aorta
+borax: soare -> xylem -> borax
+coral: soare -> xylem -> coral
+foray: soare -> xylem -> foray
+molar: soare -> xylem -> molar
+moral: soare -> xylem -> moral
+polar: soare -> xylem -> polar
+royal: soare -> xylem -> royal

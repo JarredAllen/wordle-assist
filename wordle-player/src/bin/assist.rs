@@ -4,7 +4,8 @@ use wordle_engine::{LetterResponse, WordleResponse};
 
 use ::wordle_player::Information;
 
-fn read_word_list(mut file: File) -> io::Result<Vec<&'static str>> {
+fn read_word_list(filename: &str) -> io::Result<Vec<&'static str>> {
+    let mut file = File::open(filename)?;
     let mut contents = String::new();
     file.read_to_string(&mut contents)?;
     Ok(contents
@@ -15,13 +16,13 @@ fn read_word_list(mut file: File) -> io::Result<Vec<&'static str>> {
 }
 
 fn main() -> io::Result<()> {
-    let word_file = File::open("../wordle-engine/scrabble.txt")?;
-    let word_list = read_word_list(word_file)?;
+    let mut allowed = read_word_list("../wordle-engine/possible-answers.txt")?;
+    let guess_list = read_word_list("../wordle-engine/possible-guesses.txt")?;
     let mut info = Information::new();
     let mut guess = String::new();
     let mut response = String::new();
     loop {
-        let allowed: Vec<&'static str> = word_list
+        allowed = allowed
             .iter()
             .filter(|word| info.allows(word))
             .cloned()
@@ -34,14 +35,11 @@ fn main() -> io::Result<()> {
             println!("{}", info);
             break;
         }
-        // let best_guess = info.get_ideal_guess(&word_list);
-        // let score = info.evaluate_guess(&allowed, best_guess);
-        // println!("Recommended guess: {} (+{})", best_guess, score);
         println!(
             "Top 5 guesses: [{}]",
-            info.top_n_guesses(&word_list, 5)
+            info.top_n_guesses(&guess_list, &allowed, 5)
                 .into_iter()
-                .map(|word| format!("({}, {:.5})", word, info.evaluate_guess(&allowed, word)))
+                .map(|(word, score)| format!("({}, {:.5})", word, score))
                 .collect::<Vec<String>>()
                 .join(", ")
         );

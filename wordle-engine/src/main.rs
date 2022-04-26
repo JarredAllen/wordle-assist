@@ -2,7 +2,8 @@ use ::wordle_engine::{LetterResponse, WordleEngine, WordleResponse};
 use std::fs::File;
 use std::io::{self, Read};
 
-fn read_word_list(mut file: File) -> io::Result<Vec<&'static str>> {
+fn read_word_list(filename: &str) -> io::Result<Vec<&'static str>> {
+    let mut file = File::open(filename)?;
     let mut contents = String::new();
     file.read_to_string(&mut contents)?;
     Ok(contents
@@ -13,9 +14,9 @@ fn read_word_list(mut file: File) -> io::Result<Vec<&'static str>> {
 }
 
 fn main() -> io::Result<()> {
-    let word_file = File::open("scrabble.txt")?;
-    let word_list = read_word_list(word_file)?;
-    let mut engine = WordleEngine::new(word_list);
+    let solution_list = read_word_list("possible-answers.txt")?;
+    let guess_list = read_word_list("possible-guesses.txt")?;
+    let mut engine = WordleEngine::new(guess_list, solution_list);
     let mut guess = String::new();
     while !engine.solved() {
         println!("Please make a guess (leave blank to forfeit):");

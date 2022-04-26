@@ -21,8 +21,8 @@ enum LetterStatus {
 
 impl WordleEngine {
     /// Create a new WordleEngine instance from the given list, with a random word
-    pub fn new(word_list: Vec<&'static str>) -> Self {
-        let solution: &'static str = word_list
+    pub fn new(word_list: Vec<&'static str>, solution_list: Vec<&'static str>) -> Self {
+        let solution: &'static str = solution_list
             .choose(&mut rand::thread_rng())
             .expect("Empty word list");
         Self::with_answer(word_list, solution)
